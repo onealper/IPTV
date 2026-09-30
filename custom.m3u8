@@ -31,92 +31,92 @@ https://tv-e-okul00.medya.trt.com.tr/master.m3u8
 https://tv-e-okul01.medya.trt.com.tr/master.m3u8
 #EXTINF:-1 tvg-name="TRT EBA Lise" tvg-logo="https://i.imgur.com/IebUZx1.png" tvg-chno="16" tvg-country="TR" group-title="Turkey",TRT EBA Lise
 https://tv-e-okul02.medya.trt.com.tr/master.m3u8
-#EXTINF:-1 tvg-country="TR" group-title="Turkey" tvg-id="24TV.tr@SD" tvg-logo="https://i.imgur.com/8FO41es.png" http-user-agent="Mozilla/5.0 Macintosh; Intel Mac OS X 10_14_5 AppleWebKit/537.36 KHTML, like Gecko Chrome/76.0.3809.25 Safari/537.36",24 TV (1080p)
+#EXTINF:-1 tvg-name="24 TV (1080p)" tvg-logo="https://i.imgur.com/8FO41es.png" tvg-id="24TV.tr@SD" tvg-country="TR" http-user-agent="Mozilla/5.0 Macintosh; Intel Mac OS X 10_14_5 AppleWebKit/537.36 KHTML, like Gecko Chrome/76.0.3809.25 Safari/537.36" group-title="Turkey",24 TV (1080p)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 Macintosh; Intel Mac OS X 10_14_5 AppleWebKit/537.36 KHTML, like Gecko Chrome/76.0.3809.25 Safari/537.36
 https://mn-nl.mncdn.com/kanal24/smil:kanal24.smil/playlist.m3u8
-#EXTINF:-1 tvg-country="TR" group-title="Turkey" tvg-id="360.tr@SD" tvg-logo="https://i.imgur.com/agn47sQ.png",360 TV (720p) [Not 24/7]
+#EXTINF:-1 tvg-name="360 TV (720p) [Not 24/7]" tvg-logo="https://i.imgur.com/agn47sQ.png" tvg-id="360.tr@SD" tvg-country="TR" group-title="Turkey",360 TV (720p) [Not 24/7]
 https://turkmedya-live.ercdn.net/tv360/tv360.m3u8
-#EXTINF:-1 tvg-country="TR" group-title="Turkey" tvg-id="A2TV.tr@SD" tvg-logo="https://iatv.tmgrup.com.tr/site/v2/a2tv/i/a2tv-logo.png",A2TV (1080p)
+#EXTINF:-1 tvg-name="A2TV (1080p)" tvg-logo="https://iatv.tmgrup.com.tr/site/v2/a2tv/i/a2tv-logo.png" tvg-id="A2TV.tr@SD" tvg-country="TR" group-title="Turkey",A2TV (1080p)
 https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/a2tv/a2tv.m3u8
-#EXTINF:-1 tvg-country="TR" group-title="Turkey" tvg-id="AHaber.tr@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7c/Ahaber_Logo.png",A Haber (1080p)
+#EXTINF:-1 tvg-name="A Haber (1080p)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7c/Ahaber_Logo.png" tvg-id="AHaber.tr@SD" tvg-country="TR" group-title="Turkey",A Haber (1080p)
 https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/ahaber/ahaber.m3u8
-#EXTINF:-1 tvg-country="TR" group-title="Turkey" tvg-id="ASpor.tr@SD" tvg-logo="https://i.imgur.com/ZhkZzLf.png",A Spor (1080p)
+#EXTINF:-1 tvg-name="A Spor (1080p)" tvg-logo="https://i.imgur.com/ZhkZzLf.png" tvg-id="ASpor.tr@SD" tvg-country="TR" group-title="Turkey",A Spor (1080p)
 https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/aspor/aspor.m3u8
-#EXTINF:-1 tvg-country="TR" group-title="Turkey" tvg-id="AkitTV.tr@SD" tvg-logo="https://i.imgur.com/oGto929.png",Akit TV (720p)
+#EXTINF:-1 tvg-name="Akit TV (720p)" tvg-logo="https://i.imgur.com/oGto929.png" tvg-id="AkitTV.tr@SD" tvg-country="TR" group-title="Turkey",Akit TV (720p)
 https://akittv-live.ercdn.net/akittv/akittv.m3u8
-#EXTINF:-1 tvg-country="TR" group-title="Turkey" tvg-id="ATV.tr@SD" tvg-logo="https://i.imgur.com/HyVUwFC.png",ATV (1080p)
+#EXTINF:-1 tvg-name="ATV (1080p)" tvg-logo="https://i.imgur.com/HyVUwFC.png" tvg-id="ATV.tr@SD" tvg-country="TR" group-title="Turkey",ATV (1080p)
 https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/atv/atv_1080p.m3u8
-#EXTINF:-1 tvg-country="TR" group-title="Turkey" tvg-id="BabyTV.uk@Turkiye" tvg-logo="https://i.imgur.com/4BDJ5FT.png",BabyTV Turkiye (1080p) [Geo-blocked]
+#EXTINF:-1 tvg-name="BabyTV Turkiye (1080p) [Geo-blocked]" tvg-logo="https://i.imgur.com/4BDJ5FT.png" tvg-id="BabyTV.uk@Turkiye" tvg-country="TR" group-title="Turkey",BabyTV Turkiye (1080p) [Geo-blocked]
 https://saran-live.ercdn.net/babytv/index.m3u8
-#EXTINF:-1 tvg-country="TR" group-title="Turkey" tvg-id="BeyazTV.tr@SD" tvg-logo="https://i.imgur.com/uykIdML.png",Beyaz TV (1080p)
+#EXTINF:-1 tvg-name="Beyaz TV (1080p)" tvg-logo="https://i.imgur.com/uykIdML.png" tvg-id="BeyazTV.tr@SD" tvg-country="TR" group-title="Turkey",Beyaz TV (1080p)
 https://beyaztv.daioncdn.net/beyaztv/beyaztv.m3u8?app=fcd5c66b-da9d-44ba-a410-4f34805c397d&ce=3
-#EXTINF:-1 tvg-country="TR" group-title="Turkey" tvg-id="BizimevTV.tr@SD" tvg-logo="https://i.imgur.com/eJa6sFY.png",Bizimev TV (720p)
+#EXTINF:-1 tvg-name="Bizimev TV (720p)" tvg-logo="https://i.imgur.com/eJa6sFY.png" tvg-id="BizimevTV.tr@SD" tvg-country="TR" group-title="Turkey",Bizimev TV (720p)
 https://mn-nl.mncdn.com/blutv_bizimev/bizimev_sd.smil/playlist.m3u8
-#EXTINF:-1 tvg-country="TR" group-title="Turkey" tvg-id="BloombergHT.tr@SD" tvg-logo="https://i.imgur.com/bmkXfIE.png",Bloomberg HT (720p)
+#EXTINF:-1 tvg-name="Bloomberg HT (720p)" tvg-logo="https://i.imgur.com/bmkXfIE.png" tvg-id="BloombergHT.tr@SD" tvg-country="TR" group-title="Turkey",Bloomberg HT (720p)
 https://ciner.daioncdn.net/bloomberght/bloomberght.m3u8
-#EXTINF:-1 tvg-country="TR" group-title="Turkey" tvg-id="CGTNDocumentary.tr@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/CGTN_Documentary_logo.png/960px-CGTN_Documentary_logo.png",CGTN Documentary
+#EXTINF:-1 tvg-name="CGTN Documentary" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/CGTN_Documentary_logo.png/960px-CGTN_Documentary_logo.png" tvg-id="CGTNDocumentary.tr@SD" tvg-country="TR" group-title="Turkey",CGTN Documentary
 https://mn-nl.mncdn.com/dogusdyg_drone/cgtn/playlist.m3u8
-#EXTINF:-1 tvg-country="TR" group-title="Turkey" tvg-id="CNBCe.tr@SD" tvg-logo="https://s.cnbce.com/dist/images/logo-nav.png",CNBC-e
+#EXTINF:-1 tvg-name="CNBC-e" tvg-logo="https://s.cnbce.com/dist/images/logo-nav.png" tvg-id="CNBCe.tr@SD" tvg-country="TR" group-title="Turkey",CNBC-e
 https://hnpsechtsc.turknet.ercdn.net/xpnvudnlsv/cnbc-e/cnbc-e.m3u8
-#EXTINF:-1 tvg-country="TR" group-title="Turkey" tvg-id="DisneyJr.tr@SD" tvg-logo="https://www.dsmart.com.tr/api/v1/public/images/kanallar/disneyjr.png",Disney Jr. (1080p) [Geo-blocked]
+#EXTINF:-1 tvg-name="Disney Jr. (1080p) [Geo-blocked]" tvg-logo="https://www.dsmart.com.tr/api/v1/public/images/kanallar/disneyjr.png" tvg-id="DisneyJr.tr@SD" tvg-country="TR" group-title="Turkey",Disney Jr. (1080p) [Geo-blocked]
 https://saran-live.ercdn.net/disneyjunior/index.m3u8
-#EXTINF:-1 tvg-country="TR" group-title="Turkey" tvg-id="ElsharqTV.tr@SD" tvg-logo="https://i.imgur.com/8vmfZb5.png",Elsharq TV (1080p) [Not 24/7]
+#EXTINF:-1 tvg-name="Elsharq TV (1080p) [Not 24/7]" tvg-logo="https://i.imgur.com/8vmfZb5.png" tvg-id="ElsharqTV.tr@SD" tvg-country="TR" group-title="Turkey",Elsharq TV (1080p) [Not 24/7]
 https://mn-nl.mncdn.com/elsharq_live/live/playlist.m3u8
-#EXTINF:-1 tvg-country="TR" group-title="Turkey" tvg-id="FlashTV.tr@SD" tvg-logo="https://i.imgur.com/L0NHKBM.png",Flash TV (720p)
+#EXTINF:-1 tvg-name="Flash TV (720p)" tvg-logo="https://i.imgur.com/L0NHKBM.png" tvg-id="FlashTV.tr@SD" tvg-country="TR" group-title="Turkey",Flash TV (720p)
 https://mn-nl.mncdn.com/blutv_flashtv/live.m3u8
-#EXTINF:-1 tvg-country="TR" group-title="Turkey" tvg-id="FX.tr@HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/FX_International_logo.svg/960px-FX_International_logo.svg.png",FX (1080p) [Geo-blocked]
+#EXTINF:-1 tvg-name="FX (1080p) [Geo-blocked]" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/FX_International_logo.svg/960px-FX_International_logo.svg.png" tvg-id="FX.tr@HD" tvg-country="TR" group-title="Turkey",FX (1080p) [Geo-blocked]
 https://saran-live.ercdn.net/fx/index.m3u8
-#EXTINF:-1 tvg-country="TR" group-title="Turkey" tvg-id="GZT.tr@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/GZT_logo.svg/960px-GZT_logo.svg.png",GZT (1080p)
+#EXTINF:-1 tvg-name="GZT (1080p)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/GZT_logo.svg/960px-GZT_logo.svg.png" tvg-id="GZT.tr@SD" tvg-country="TR" group-title="Turkey",GZT (1080p)
 https://gzttv-live.lg.mncdn.com/gzttv/gzttv/playlist.m3u8
-#EXTINF:-1 tvg-country="TR" group-title="Turkey" tvg-id="HaberturkTV.tr@SD" tvg-logo="https://i.imgur.com/6Tw3rUp.png",Habertürk TV (1080p)
+#EXTINF:-1 tvg-name="Habertürk TV (1080p)" tvg-logo="https://i.imgur.com/6Tw3rUp.png" tvg-id="HaberturkTV.tr@SD" tvg-country="TR" group-title="Turkey",Habertürk TV (1080p)
 https://ciner-live.daioncdn.net/haberturktv/haberturktv.m3u8
-#EXTINF:-1 tvg-country="TR" group-title="Turkey" tvg-id="HalkTV.tr@SD" tvg-logo="https://i.imgur.com/xM0HA30.png",Halk TV (1080p)
+#EXTINF:-1 tvg-name="Halk TV (1080p)" tvg-logo="https://i.imgur.com/xM0HA30.png" tvg-id="HalkTV.tr@SD" tvg-country="TR" group-title="Turkey",Halk TV (1080p)
 https://halktv-live.daioncdn.net/halktv/halktv.m3u8
-#EXTINF:-1 tvg-country="TR" group-title="Turkey" tvg-id="HTSporTV.tr@SD" tvg-logo="https://www.htspor.com/images/manifest/social-share-logo.png",HTSpor TV (1080p)
+#EXTINF:-1 tvg-name="HTSpor TV (1080p)" tvg-logo="https://www.htspor.com/images/manifest/social-share-logo.png" tvg-id="HTSporTV.tr@SD" tvg-country="TR" group-title="Turkey",HTSpor TV (1080p)
 https://ciner.daioncdn.net/ht-spor/ht-spor.m3u8?app=web
-#EXTINF:-1 tvg-country="TR" group-title="Turkey" tvg-id="Kanal7.tr@SD" tvg-logo="https://i.imgur.com/0gq9xOm.png",Kanal 7 (1080p) [Not 24/7]
+#EXTINF:-1 tvg-name="Kanal 7 (1080p) [Not 24/7]" tvg-logo="https://i.imgur.com/0gq9xOm.png" tvg-id="Kanal7.tr@SD" tvg-country="TR" group-title="Turkey",Kanal 7 (1080p) [Not 24/7]
 https://kanal7-live.daioncdn.net/kanal7/kanal7.m3u8
-#EXTINF:-1 tvg-country="TR" group-title="Turkey" tvg-id="KanalD.tr@SD" tvg-logo="https://i.imgur.com/9o1atM6.png",Kanal D (1080p)
+#EXTINF:-1 tvg-name="Kanal D (1080p)" tvg-logo="https://i.imgur.com/9o1atM6.png" tvg-id="KanalD.tr@SD" tvg-country="TR" group-title="Turkey",Kanal D (1080p)
 https://demiroren.daioncdn.net/kanald/kanald.m3u8?app=kanald_web&ce=3
-#EXTINF:-1 tvg-country="TR" group-title="Turkey" tvg-id="KralPopTV.tr@SD" tvg-logo="https://i.imgur.com/ch365lh.png",KRAL Pop TV (720p)
+#EXTINF:-1 tvg-name="KRAL Pop TV (720p)" tvg-logo="https://i.imgur.com/ch365lh.png" tvg-id="KralPopTV.tr@SD" tvg-country="TR" group-title="Turkey",KRAL Pop TV (720p)
 https://dogus-live.daioncdn.net/kralpoptv/playlist.m3u8
-#EXTINF:-1 tvg-country="TR" group-title="Turkey" tvg-id="MekameleenTV.tr@SD" tvg-logo="https://i.imgur.com/q7iVchl.png",Mekameleen TV (1080p)
+#EXTINF:-1 tvg-name="Mekameleen TV (1080p)" tvg-logo="https://i.imgur.com/q7iVchl.png" tvg-id="MekameleenTV.tr@SD" tvg-country="TR" group-title="Turkey",Mekameleen TV (1080p)
 https://mn-nl.mncdn.com/mekameleen/smil:mekameleentv.smil/playlist.m3u8
-#EXTINF:-1 tvg-country="TR" group-title="Turkey" tvg-id="MinikaCocuk.tr@SD" tvg-logo="https://i.imgur.com/VCywMTv.png",Minika Cocuk (720p)
+#EXTINF:-1 tvg-name="Minika Cocuk (720p)" tvg-logo="https://i.imgur.com/VCywMTv.png" tvg-id="MinikaCocuk.tr@SD" tvg-country="TR" group-title="Turkey",Minika Cocuk (720p)
 https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/minikago_cocuk/minikago_cocuk.m3u8
-#EXTINF:-1 tvg-country="TR" group-title="Turkey" tvg-id="MinikaGo.tr@SD" tvg-logo="https://i.imgur.com/qIoipDq.png",Minika Go (720p)
+#EXTINF:-1 tvg-name="Minika Go (720p)" tvg-logo="https://i.imgur.com/qIoipDq.png" tvg-id="MinikaGo.tr@SD" tvg-country="TR" group-title="Turkey",Minika Go (720p)
 https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/minikago/minikago.m3u8
-#EXTINF:-1 tvg-country="TR" group-title="Turkey" tvg-id="NationalGeographic.tr@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/960px-Natgeologo.svg.png",National Geographic (1080p) [Geo-blocked]
+#EXTINF:-1 tvg-name="National Geographic (1080p) [Geo-blocked]" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/960px-Natgeologo.svg.png" tvg-id="NationalGeographic.tr@SD" tvg-country="TR" group-title="Turkey",National Geographic (1080p) [Geo-blocked]
 https://saran-live.ercdn.net/natgeohd/index.m3u8
-#EXTINF:-1 tvg-country="TR" group-title="Turkey" tvg-id="NationalGeographicWild.tr@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/National_Geographic_Wild_logo.svg/960px-National_Geographic_Wild_logo.svg.png",National Geographic Wild (1080p) [Geo-blocked]
+#EXTINF:-1 tvg-name="National Geographic Wild (1080p) [Geo-blocked]" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/National_Geographic_Wild_logo.svg/960px-National_Geographic_Wild_logo.svg.png" tvg-id="NationalGeographicWild.tr@SD" tvg-country="TR" group-title="Turkey",National Geographic Wild (1080p) [Geo-blocked]
 https://saran-live.ercdn.net/natgeowild/index.m3u8
-#EXTINF:-1 tvg-country="TR" group-title="Turkey" tvg-id="NOWTV.tr@SD" tvg-logo="https://i.imgur.com/5EYjWK7.png",NOW TV (720p)
+#EXTINF:-1 tvg-name="NOW TV (720p)" tvg-logo="https://i.imgur.com/5EYjWK7.png" tvg-id="NOWTV.tr@SD" tvg-country="TR" group-title="Turkey",NOW TV (720p)
 https://uycyyuuzyh.turknet.ercdn.net/nphindgytw/nowtv/nowtv.m3u8
-#EXTINF:-1 tvg-country="TR" group-title="Turkey" tvg-id="NTV.tr@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/NTV_%28Turkey%29_logo.svg/960px-NTV_%28Turkey%29_logo.svg.png",NTV (720p) [Not 24/7]
+#EXTINF:-1 tvg-name="NTV (720p) [Not 24/7]" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/NTV_%28Turkey%29_logo.svg/960px-NTV_%28Turkey%29_logo.svg.png" tvg-id="NTV.tr@SD" tvg-country="TR" group-title="Turkey",NTV (720p) [Not 24/7]
 https://dogus-live.daioncdn.net/ntv/ntv.m3u8
-#EXTINF:-1 tvg-country="TR" group-title="Turkey" tvg-id="Number1Turk.tr@SD" tvg-logo="https://i.imgur.com/18zjk3q.png",Number 1 Türk (720p)
+#EXTINF:-1 tvg-name="Number 1 Türk (720p)" tvg-logo="https://i.imgur.com/18zjk3q.png" tvg-id="Number1Turk.tr@SD" tvg-country="TR" group-title="Turkey",Number 1 Türk (720p)
 https://mn-nl.mncdn.com/blutv_nr1turk2/live.m3u8
-#EXTINF:-1 tvg-country="TR" group-title="Turkey" tvg-id="StarTV.tr@SD" tvg-logo="https://i.imgur.com/9O3DHRB.png",Star TV (720p)
+#EXTINF:-1 tvg-name="Star TV (720p)" tvg-logo="https://i.imgur.com/9O3DHRB.png" tvg-id="StarTV.tr@SD" tvg-country="TR" group-title="Turkey",Star TV (720p)
 https://dogus.daioncdn.net/startv/startv_720p.m3u8?&sid=8l4w3lst4co5&app=a20ac41e-bdc3-4aa1-934d-26b484480ac9&ce=3
-#EXTINF:-1 tvg-country="TR" group-title="Turkey" tvg-id="TabiiSpor6.tr@SD" tvg-logo="https://cms-tabii-public-image.tabii.com/int/w300/43020.jpeg",Tabii Spor 6 (720p) [Geo-blocked]
+#EXTINF:-1 tvg-name="Tabii Spor 6 (720p) [Geo-blocked]" tvg-logo="https://cms-tabii-public-image.tabii.com/int/w300/43020.jpeg" tvg-id="TabiiSpor6.tr@SD" tvg-country="TR" group-title="Turkey",Tabii Spor 6 (720p) [Geo-blocked]
 https://vbtob9hyq58eiophct5qctxr2.medya.trt.com.tr/master.m3u8
-#EXTINF:-1 tvg-country="TR" group-title="Turkey" tvg-id="TBMMTV.tr@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/TBMM_TV_logo.svg/960px-TBMM_TV_logo.svg.png",TBMM TV (720p)
+#EXTINF:-1 tvg-name="TBMM TV (720p)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/TBMM_TV_logo.svg/960px-TBMM_TV_logo.svg.png" tvg-id="TBMMTV.tr@SD" tvg-country="TR" group-title="Turkey",TBMM TV (720p)
 https://meclistv-live.ercdn.net/meclistv/meclistv.m3u8
-#EXTINF:-1 tvg-country="TR" group-title="Turkey" tvg-id="Tele1.tr@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/4/43/Tele1_logosu.png",Tele 1 (1080p)
+#EXTINF:-1 tvg-name="Tele 1 (1080p)" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/4/43/Tele1_logosu.png" tvg-id="Tele1.tr@SD" tvg-country="TR" group-title="Turkey",Tele 1 (1080p)
 https://tele1-live.ercdn.net/tele1/tele1.m3u8
-#EXTINF:-1 tvg-country="TR" group-title="Turkey" tvg-id="tv2.tr@SD" tvg-logo="https://i.imgur.com/rsoSLih.png",Teve2 (1080p)
+#EXTINF:-1 tvg-name="Teve2 (1080p)" tvg-logo="https://i.imgur.com/rsoSLih.png" tvg-id="tv2.tr@SD" tvg-country="TR" group-title="Turkey",Teve2 (1080p)
 https://demiroren-live.daioncdn.net/teve2/teve2.m3u8
-#EXTINF:-1 tvg-country="TR" group-title="Turkey" tvg-id="TRTDiyanetCocuk.tr@SD" tvg-logo="https://i.imgur.com/8PmXz9t.png",TRT Diyanet Çocuk (720p)
+#EXTINF:-1 tvg-name="TRT Diyanet Çocuk (720p)" tvg-logo="https://i.imgur.com/8PmXz9t.png" tvg-id="TRTDiyanetCocuk.tr@SD" tvg-country="TR" group-title="Turkey",TRT Diyanet Çocuk (720p)
 https://tv-trtdiyanetcocuk.medya.trt.com.tr/master.m3u8
-#EXTINF:-1 tvg-country="TR" group-title="Turkey" tvg-id="TV4.tr@SD" tvg-logo="https://i.imgur.com/UpsQsbd.png",TV4 (720p)
+#EXTINF:-1 tvg-name="TV4 (720p)" tvg-logo="https://i.imgur.com/UpsQsbd.png" tvg-id="TV4.tr@SD" tvg-country="TR" group-title="Turkey",TV4 (720p)
 https://turkmedya-live.ercdn.net/tv4/tv4.m3u8
-#EXTINF:-1 tvg-country="TR" group-title="Turkey" tvg-id="TV8.tr@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/thumb/6/68/Tv8_Yeni_Logo.png/960px-Tv8_Yeni_Logo.png",TV 8 (1080p)
+#EXTINF:-1 tvg-name="TV 8 (1080p)" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/thumb/6/68/Tv8_Yeni_Logo.png/960px-Tv8_Yeni_Logo.png" tvg-id="TV8.tr@SD" tvg-country="TR" group-title="Turkey",TV 8 (1080p)
 https://tv8.daioncdn.net/tv8/tv8.m3u8?app=7ddc255a-ef47-4e81-ab14-c0e5f2949788&ce=3
-#EXTINF:-1 tvg-country="TR" group-title="Turkey" tvg-id="TV100.tr@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/thumb/0/0f/TV100_logo.png/960px-TV100_logo.png",TV 100 (1080p)
+#EXTINF:-1 tvg-name="TV 100 (1080p)" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/thumb/0/0f/TV100_logo.png/960px-TV100_logo.png" tvg-id="TV100.tr@SD" tvg-country="TR" group-title="Turkey",TV 100 (1080p)
 https://tv100-live.daioncdn.net/tv100/tv100.m3u8
-#EXTINF:-1 tvg-country="TR" group-title="Turkey" tvg-id="TVNET.tr@SD" tvg-logo="https://i.imgur.com/mQo8yWQ.png",TVNET (1080p)
+#EXTINF:-1 tvg-name="TVNET (1080p)" tvg-logo="https://i.imgur.com/mQo8yWQ.png" tvg-id="TVNET.tr@SD" tvg-country="TR" group-title="Turkey",TVNET (1080p)
 https://tvnet-live.lg.mncdn.com/tvnet/tvnet/playlist.m3u8
-#EXTINF:-1 tvg-country="TR" group-title="Turkey" tvg-id="UlkeTV.tr@SD" tvg-logo="https://i.imgur.com/wdWR7Qk.png",Ülke TV (720p)
+#EXTINF:-1 tvg-name="Ülke TV (720p)" tvg-logo="https://i.imgur.com/wdWR7Qk.png" tvg-id="UlkeTV.tr@SD" tvg-country="TR" group-title="Turkey",Ülke TV (720p)
 https://mn-nl.mncdn.com/blutv_ulketv2/live.m3u8
 #EXTINF:-1 tvg-name="SVT 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/SVT1_logo_2016.svg/960px-SVT1_logo_2016.svg.png" tvg-id="SVT1.se" tvg-chno="1" tvg-country="SE" group-title="Sweden",SVT 1 Ⓖ
 https://svt-live-channel.akamaized.net/l4/se/svt1/manifest.mpd?format=dash&defaultSubLang=1
