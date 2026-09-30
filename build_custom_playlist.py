@@ -69,6 +69,27 @@ def safe_text(value):
     return text
 
 
+def normalize_imported(record, group, country_code):
+    """Use the same channel attribute order as the Free-TV generator."""
+    original = record[0]
+    display_name = re.split(r',(?=(?:[^"]*"[^"]*")*[^"]*$)', original, maxsplit=1)[-1].strip()
+    tvg_name = attribute(original, "tvg-name") or display_name
+    tvg_name = re.sub(r"\s*[Ⓐ-ⓩ]+\s*$", "", tvg_name).strip()
+    fields = [
+        ('tvg-name', tvg_name),
+        ('tvg-logo', attribute(original, "tvg-logo")),
+        ('tvg-id', attribute(original, "tvg-id")),
+        ('tvg-country', country_code),
+    ]
+    for key in ('tvg-chno', 'http-user-agent', 'http-referrer'):
+        value = attribute(original, key)
+        if value:
+            fields.append((key, value))
+    fields.append(('group-title', group))
+    attributes = " ".join(f'{key}="{safe_text(value)}"' for key, value in fields)
+    return [f'#EXTINF:-1 {attributes},{safe_text(display_name)}'] + record[1:]
+
+
 def build(settings, fetch=download, fetch_url=download_url):
     countries = settings["countries"]
     if not isinstance(countries, list) or not countries:
@@ -95,9 +116,7 @@ def build(settings, fetch=download, fetch_url=download_url):
                 key = identity(record[0])
                 if key in seen_names or record[-1] in seen_urls:
                     continue
-                line = re.sub(r'\s+(?:group-title|tvg-country)="[^"]*"', "", record[0])
-                line = line.replace("#EXTINF:-1", f'#EXTINF:-1 tvg-country="{code}" group-title="{group}"', 1)
-                records.append([line] + record[1:])
+                records.append(normalize_imported(record, group, code))
                 seen_names.add(key)
                 seen_urls.add(record[-1])
         extras = []
