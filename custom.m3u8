@@ -118,6 +118,270 @@ https://tv100-live.daioncdn.net/tv100/tv100.m3u8
 https://tvnet-live.lg.mncdn.com/tvnet/tvnet/playlist.m3u8
 #EXTINF:-1 tvg-name="Ülke TV (720p)" tvg-logo="https://i.imgur.com/wdWR7Qk.png" tvg-id="UlkeTV.tr@SD" tvg-country="TR" group-title="Turkey",Ülke TV (720p)
 https://mn-nl.mncdn.com/blutv_ulketv2/live.m3u8
+#EXTINF:-1 tvg-name="4U TV (720p)" tvg-logo="https://i.imgur.com/PexhKwp.png" tvg-id="4UTV.tr@SD" tvg-country="TR" group-title="Turkey",4U TV (720p)
+https://hls.4utv.live/hls/stream.m3u8
+#EXTINF:-1 tvg-name="Aksu TV (720p)" tvg-logo="https://i.imgur.com/mgDCKiy.png" tvg-id="AksuTV.tr@SD" tvg-country="TR" group-title="Turkey",Aksu TV (720p)
+https://live.artidijitalmedya.com/artidijital_aksutv/aksutv/playlist.m3u8
+#EXTINF:-1 tvg-name="Al-Rafidain TV (720p) [Not 24/7]" tvg-logo="https://i.imgur.com/rjXDCN5.png" tvg-id="AlRafidainTV.tr@SD" tvg-country="TR" group-title="Turkey",Al-Rafidain TV (720p) [Not 24/7]
+https://arrafidain.tvplayer.online/arrafidaintv/source/playlist.m3u8
+#EXTINF:-1 tvg-name="Al-Zahra TV Turkic (720p) [Not 24/7]" tvg-logo="https://i.imgur.com/QEHKGnG.png" tvg-id="AlZahraTVTurkic.tr@SD" tvg-country="TR" group-title="Turkey",Al-Zahra TV Turkic (720p) [Not 24/7]
+https://live.al-zahratv.com/live/playlist.m3u8
+#EXTINF:-1 tvg-name="Alanya Posta TV (1080p)" tvg-logo="https://i.imgur.com/a3w9eFe.png" tvg-id="AlanyaPostaTV.tr@SD" tvg-country="TR" group-title="Turkey",Alanya Posta TV (1080p)
+https://api-tv3.yayin.com.tr/postatv/postatv/playlist.m3u8
+#EXTINF:-1 tvg-name="Almahriah TV (576p)" tvg-logo="https://i.imgur.com/GgEeTNr.png" tvg-id="AlmahriahTV.tr@SD" tvg-country="TR" group-title="Turkey",Almahriah TV (576p)
+https://starmenajo.com/hls/almahriah/index.m3u8
+#EXTINF:-1 tvg-name="Altas TV (1080p)" tvg-logo="https://i.imgur.com/XaJ7fp6.png" tvg-id="AltasTV.tr@SD" tvg-country="TR" group-title="Turkey",Altas TV (1080p)
+https://edge1.socialsmart.tv/altastv/bant1/playlist.m3u8
+#EXTINF:-1 tvg-name="Anadolu Net TV (1080p)" tvg-logo="https://www.anadolunettv.com/d/r/logo.png" tvg-id="AnadoluNetTV.tr@SD" tvg-country="TR" group-title="Turkey",Anadolu Net TV (1080p)
+https://live.artidijitalmedya.com/artidijital_anadolunet/anadolunet/playlist.m3u8
+#EXTINF:-1 tvg-name="Aras TV (576p) [Not 24/7]" tvg-logo="https://i.imgur.com/JsDCyWG.png" tvg-id="ArasTV.tr@SD" tvg-country="TR" group-title="Turkey",Aras TV (576p) [Not 24/7]
+http://1.rtmp.org/tv217/yayin.stream/playlist.m3u8
+#EXTINF:-1 tvg-name="AS TV (900p)" tvg-logo="https://asset.artidijitalmedya.com/image/188x188/channels/v1/logo_13.png" tvg-id="ASTV.tr@SD" tvg-country="TR" group-title="Turkey",AS TV (900p)
+https://live.artidijitalmedya.com/artidijital_astv/astv/playlist.m3u8
+#EXTINF:-1 tvg-name="ATV Alanya (1080p)" tvg-logo="https://i.imgur.com/bUwarR0.png" tvg-id="ATVAlanya.tr@SD" tvg-country="TR" group-title="Turkey",ATV Alanya (1080p)
+https://cdn-alanyatv.yayin.com.tr/alanyatv/alanyatv/playlist.m3u8
+#EXTINF:-1 tvg-name="ATV Avrupa (576p)" tvg-logo="https://i.tmgrup.com.tr/aav/site/v1/i/atv-avrupa-logo.png" tvg-id="ATVAvrupa.tr@SD" tvg-country="TR" group-title="Turkey",ATV Avrupa (576p)
+https://flask-api-hls-atvavrupahdtrkvz-live.onrender.com/hls_stream/master.m3u8
+#EXTINF:-1 tvg-name="BBC Earth Turkiye" tvg-logo="https://i.imgur.com/nGSsUd4.png" tvg-id="BBCEarth.uk@Turkiye" tvg-country="TR" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36" group-title="Turkey",BBC Earth Turkiye
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
+https://nord.ayakkabiparti.lol/bbc/index.m3u8
+#EXTINF:-1 tvg-name="BBC First Turkiye" tvg-logo="https://i.imgur.com/UBoBYUI.png" tvg-id="BBCFirst.uk@Turkiye" tvg-country="TR" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" group-title="Turkey",BBC First Turkiye
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+http://88.212.15.29/live/bbc_first/index.m3u8
+#EXTINF:-1 tvg-name="beIN Box Office 1" tvg-logo="https://i.imgur.com/MGrJFVN.png" tvg-id="beINBoxOffice1.tr@SD" tvg-country="TR" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36" group-title="Turkey",beIN Box Office 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
+https://nord.ayakkabiparti.lol/box1/index.m3u8
+#EXTINF:-1 tvg-name="beIN Box Office 2" tvg-logo="https://i.imgur.com/Kg7oOcO.png" tvg-id="beINBoxOffice2.tr@SD" tvg-country="TR" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36" group-title="Turkey",beIN Box Office 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
+https://nord.ayakkabiparti.lol/box2/index.m3u8
+#EXTINF:-1 tvg-name="beIN Box Office 3" tvg-logo="https://i.imgur.com/5NZur1S.png" tvg-id="beINBoxOffice3.tr@SD" tvg-country="TR" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36" group-title="Turkey",beIN Box Office 3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
+https://nord.ayakkabiparti.lol/box3/index.m3u8
+#EXTINF:-1 tvg-name="beIN Movies Stars" tvg-logo="https://i.imgur.com/eryPkrT.png" tvg-id="beINMoviesStars.tr@SD" tvg-country="TR" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36" group-title="Turkey",beIN Movies Stars
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
+https://nord.ayakkabiparti.lol/bsaction1/index.m3u8
+#EXTINF:-1 tvg-name="beIN Movies Turk" tvg-logo="https://i.imgur.com/nw8Sa2z.png" tvg-id="beINMoviesTurk.tr@SD" tvg-country="TR" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36" group-title="Turkey",beIN Movies Turk
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
+https://nord.ayakkabiparti.lol/bsturk/index.m3u8
+#EXTINF:-1 tvg-name="Benguturk TV (1080p)" tvg-logo="https://i.imgur.com/p3ON1oX.png" tvg-id="BenguturkTV.tr@SD" tvg-country="TR" group-title="Turkey",Benguturk TV (1080p)
+http://185.234.111.229:8000/play/a05u
+#EXTINF:-1 tvg-name="Bir TV (720p)" tvg-logo="https://birtv.tv/assets/upload/637f83951df60.png" tvg-id="BirTV.tr@SD" tvg-country="TR" group-title="Turkey",Bir TV (720p)
+https://edge.taksimbilisim.com/birtv/bant1/playlist.m3u8
+#EXTINF:-1 tvg-name="Bric ve Satranc TV (480p) [Not 24/7]" tvg-logo="https://i.imgur.com/TXDV1ty.png" tvg-id="BricveSatrancTV.tr@SD" tvg-country="TR" group-title="Turkey",Bric ve Satranc TV (480p) [Not 24/7]
+http://139.162.182.79/live/test/index.m3u8
+#EXTINF:-1 tvg-name="BRTV (Turkiye) (720p) [Geo-blocked]" tvg-logo="https://i.imgur.com/U3qlEAp.png" tvg-id="BRTV.tr@SD" tvg-country="TR" group-title="Turkey",BRTV (Turkiye) (720p) [Geo-blocked]
+https://live.artidijitalmedya.com/artidijital_brtv/brtv/playlist.m3u8
+#EXTINF:-1 tvg-name="Bursa TV (720p) [Not 24/7]" tvg-logo="https://i.imgur.com/9cl1MR8.png" tvg-id="BursaTV.tr@SD" tvg-country="TR" group-title="Turkey",Bursa TV (720p) [Not 24/7]
+https://win1.yayin.com.tr/bursatv/bursatv/playlist.m3u8
+#EXTINF:-1 tvg-name="Cay TV (720p)" tvg-logo="https://i.imgur.com/ndupxwu.png" tvg-id="CayTV.tr@SD" tvg-country="TR" group-title="Turkey",Cay TV (720p)
+https://edge1.socialsmart.tv/caytv/bant1/playlist.m3u8
+#EXTINF:-1 tvg-name="Cekmekoy TV (1080p)" tvg-logo="https://i.imgur.com/sjAGFWu.png" tvg-id="CekmekoyTV.tr@SD" tvg-country="TR" group-title="Turkey",Cekmekoy TV (1080p)
+https://cdn-cekmekoybeltv.yayin.com.tr/cekmekoybeltv/cekmekoybeltv_1080p/playlist.m3u8
+#EXTINF:-1 tvg-name="Ciftci TV (720p) [Not 24/7]" tvg-logo="https://i.imgur.com/CLzP4vL.png" tvg-id="CiftciTV.tr@SD" tvg-country="TR" group-title="Turkey",Ciftci TV (720p) [Not 24/7]
+https://live.artidijitalmedya.com/artidijital_ciftcitv/ciftcitv/playlist.m3u8
+#EXTINF:-1 tvg-name="Deniz Postasi TV (720p) [Not 24/7]" tvg-logo="https://i.imgur.com/Mm8hdfx.png" tvg-id="DenizPostasiTV.tr@SD" tvg-country="TR" group-title="Turkey",Deniz Postasi TV (720p) [Not 24/7]
+https://live.artidijitalmedya.com/artidijital_denizpostasi/denizpostasi/playlist.m3u8
+#EXTINF:-1 tvg-name="DHA (720p) [Not 24/7]" tvg-logo="https://i.imgur.com/VZhag2x.png" tvg-id="DHA.tr@SD" tvg-country="TR" group-title="Turkey",DHA (720p) [Not 24/7]
+https://603c568fccdf5.streamlock.net/live/dhaweb1_C5efC/playlist.m3u8
+#EXTINF:-1 tvg-name="Diyanet TV (1080p)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Diyanet_TV_logo.svg/960px-Diyanet_TV_logo.svg.png" tvg-id="DiyanetTV.tr@SD" tvg-country="TR" group-title="Turkey",Diyanet TV (1080p)
+https://eustr73.mediatriple.net/videoonlylive/mtikoimxnztxlive/broadcast_5e3bf95a47e07.smil/playlist.m3u8
+#EXTINF:-1 tvg-name="Diyar TV (720p)" tvg-logo="https://i.imgur.com/qWkHjRA.png" tvg-id="DiyarTV.tr@SD" tvg-country="TR" group-title="Turkey",Diyar TV (720p)
+https://live.artidijitalmedya.com/artidijital_diyartv/diyartv/playlist.m3u8
+#EXTINF:-1 tvg-name="Dost TV (576p)" tvg-logo="https://dosttv.com/wp-content/uploads/2022/02/dost_logo.png" tvg-id="DostTV.tr@SD" tvg-country="TR" group-title="Turkey",Dost TV (576p)
+https://dost.stream.emsal.im/tv/live.m3u8
+#EXTINF:-1 tvg-name="Dream Turk (720p)" tvg-logo="https://i.imgur.com/vJ8VaZi.png" tvg-id="DreamTurk.tr@SD" tvg-country="TR" group-title="Turkey",Dream Turk (720p)
+https://live.duhnet.tv/S2/HLS_LIVE/dreamturknp/playlist.m3u8
+#EXTINF:-1 tvg-name="Edessa TV (1080p)" tvg-logo="https://i.imgur.com/rhU6j9I.png" tvg-id="EdessaTV.tr@SD" tvg-country="TR" group-title="Turkey",Edessa TV (1080p)
+https://canli.edessatv.com/hls/stream.m3u8
+#EXTINF:-1 tvg-name="Ekoturk (720p)" tvg-logo="https://www.dsmart.com.tr/epg/images/0x60/5ffc18c6cfef0b15933a8b65" tvg-id="Ekoturk.tr@SD" tvg-country="TR" group-title="Turkey",Ekoturk (720p)
+https://cdn.ekoturk.net/hls/master.m3u8
+#EXTINF:-1 tvg-name="ERTV (1080p) [Geo-blocked]" tvg-logo="https://i.imgur.com/VDGEPrD.png" tvg-id="ERTV.tr@SD" tvg-country="TR" group-title="Turkey",ERTV (1080p) [Geo-blocked]
+https://live.artidijitalmedya.com/artidijital_ertv_new/ertv/playlist.m3u8
+#EXTINF:-1 tvg-name="Erzurum Web TV (720p)" tvg-logo="https://i.imgur.com/HF7N4Li.png" tvg-id="ErzurumWebTV.tr@SD" tvg-country="TR" group-title="Turkey",Erzurum Web TV (720p)
+https://win29.yayin.com.tr/erzurumwebtv/erzurumwebtv/iptvdelisi.m3u8
+#EXTINF:-1 tvg-name="ES TV (720p)" tvg-logo="https://i.imgur.com/epAEBrp.png" tvg-id="ESTV.tr@SD" tvg-country="TR" group-title="Turkey",ES TV (720p)
+https://live.artidijitalmedya.com/artidijital_estv/estv/playlist.m3u8
+#EXTINF:-1 tvg-name="ETV Kayseri (720p)" tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_msPtG6zfPKIJIIdvG4dehXLoVoXcHM2-2HL9YxsNYzGQ=s512-c-k-c0x00ffffff-no-rj" tvg-id="ETVKayseri.tr@SD" tvg-country="TR" group-title="Turkey",ETV Kayseri (720p)
+https://live.artidijitalmedya.com/artidijital_etv/etv/playlist.m3u8
+#EXTINF:-1 tvg-name="ETV Manisa (1080p) [Not 24/7]" tvg-logo="https://i.ibb.co/QKXtdkz/sOd3INg.png" tvg-id="ETVManisa.tr@SD" tvg-country="TR" group-title="Turkey",ETV Manisa (1080p) [Not 24/7]
+https://edge1.socialsmart.tv/manisaetv/bant1/playlist.m3u8
+#EXTINF:-1 tvg-name="Euro D (720p)" tvg-logo="https://i.imgur.com/x9kHsXo.png" tvg-id="EuroD.tr@SD" tvg-country="TR" group-title="Turkey",Euro D (720p)
+https://live.duhnet.tv/S2/HLS_LIVE/eurodnp/playlist.m3u8
+#EXTINF:-1 tvg-name="FB TV" tvg-logo="https://i.imgur.com/qBVqtYd.png" tvg-id="FBTV.tr@SD" tvg-country="TR" group-title="Turkey",FB TV
+http://1hskrdto.rocketcdn.com/fenerbahcetv.smil/playlist.m3u8
+#EXTINF:-1 tvg-name="Finans Turk TV (720p)" tvg-logo="https://i.ibb.co/wBwmB1T/iY0osc7.png" tvg-id="FinansTurkTV.tr@SD" tvg-country="TR" group-title="Turkey",Finans Turk TV (720p)
+https://yayin30.haber100.com/live/finansturk/playlist.m3u8
+#EXTINF:-1 tvg-name="Flash Haber TV" tvg-logo="" tvg-id="FlashHaberTV.tr@SD" tvg-country="TR" group-title="Turkey",Flash Haber TV
+https://b01c02nl.mediatriple.net/videoonlylive/mtyycglqauzjhlive/broadcast_67c053c48829f.smil/playlist.m3u8
+#EXTINF:-1 tvg-name="Fortuna TV (720p)" tvg-logo="https://i.imgur.com/ZbUSlOC.png" tvg-id="FortunaTV.tr@SD" tvg-country="TR" group-title="Turkey",Fortuna TV (720p)
+https://edge1.socialsmart.tv/ftvturk/bant1/playlist.m3u8
+#EXTINF:-1 tvg-name="Guneydogu TV (720p)" tvg-logo="https://i.imgur.com/JT5pp3Y.png" tvg-id="GuneydoguTV.tr@SD" tvg-country="TR" group-title="Turkey",Guneydogu TV (720p)
+https://edge1.socialsmart.tv/gtv/bant1/playlist.m3u8
+#EXTINF:-1 tvg-name="Haber61 TV (720p) [Not 24/7]" tvg-logo="https://i.imgur.com/2a2XUKl.png" tvg-id="Haber61TV.tr@SD" tvg-country="TR" group-title="Turkey",Haber61 TV (720p) [Not 24/7]
+https://cdn-haber61tv.yayin.com.tr/haber61tv/smil:haber61tv.smil/index.m3u8
+#EXTINF:-1 tvg-name="Haber Global (720p) [Not 24/7]" tvg-logo="https://i.imgur.com/fu6XeGS.png" tvg-id="HaberGlobal.tr@SD" tvg-country="TR" group-title="Turkey",Haber Global (720p) [Not 24/7]
+https://tv.ensonhaber.com/haberglobal/haberglobal.m3u8
+#EXTINF:-1 tvg-name="Hunat TV (480p) [Not 24/7]" tvg-logo="https://i.imgur.com/NrxHGnb.png" tvg-id="HunatTV.tr@SD" tvg-country="TR" group-title="Turkey",Hunat TV (480p) [Not 24/7]
+https://59cba4d34b678.streamlock.net/canlitv/hunattv/playlist.m3u8
+#EXTINF:-1 tvg-name="Icel TV (720p) [Not 24/7]" tvg-logo="https://i.imgur.com/CGwImKv.png" tvg-id="IcelTV.tr@SD" tvg-country="TR" group-title="Turkey",Icel TV (720p) [Not 24/7]
+https://edge1.socialsmart.tv/iceltv/bant1/playlist.m3u8
+#EXTINF:-1 tvg-name="Ilke TV (1080p)" tvg-logo="https://ilketv.com.tr/wp-content/uploads/2024/06/logo.png" tvg-id="IlkeTV.tr@HD" tvg-country="TR" group-title="Turkey",Ilke TV (1080p)
+https://stream.ilketv.com.tr/hls/ilkecanli.m3u8
+#EXTINF:-1 tvg-name="Kanal 3 (1080p) [Not 24/7]" tvg-logo="https://i.imgur.com/eXErSv0.png" tvg-id="Kanal3.tr@SD" tvg-country="TR" group-title="Turkey",Kanal 3 (1080p) [Not 24/7]
+https://live.artidijitalmedya.com/artidijital_kanal3/kanal3/playlist.m3u8
+#EXTINF:-1 tvg-name="Kanal 7 Avrupa (720p) [Not 24/7]" tvg-logo="https://i.imgur.com/wlfyj5l.png" tvg-id="Kanal7Avrupa.tr@SD" tvg-country="TR" group-title="Turkey",Kanal 7 Avrupa (720p) [Not 24/7]
+https://livetv.radyotvonline.net/kanal7live/kanal7avr/playlist.m3u8
+#EXTINF:-1 tvg-name="Kanal 12 (720p)" tvg-logo="https://i.imgur.com/51xCkXG.png" tvg-id="Kanal12.tr@SD" tvg-country="TR" group-title="Turkey",Kanal 12 (720p)
+https://live.artidijitalmedya.com/artidijital_kanal12/kanal12/playlist.m3u8
+#EXTINF:-1 tvg-name="Kanal 15 (720p) [Not 24/7]" tvg-logo="https://i.imgur.com/wb1Cdc9.png" tvg-id="Kanal15.tr@SD" tvg-country="TR" group-title="Turkey",Kanal 15 (720p) [Not 24/7]
+https://live.artidijitalmedya.com/artidijital_kanal15/kanal15/playlist.m3u8
+#EXTINF:-1 tvg-name="Kanal 23 (1080p)" tvg-logo="https://i.imgur.com/3br8RCq.png" tvg-id="Kanal23.tr@SD" tvg-country="TR" group-title="Turkey",Kanal 23 (1080p)
+https://cdn-kanal23.yayin.com.tr/kanal23/index.m3u8
+#EXTINF:-1 tvg-name="Kanal 26 (720p) [Not 24/7]" tvg-logo="https://i.imgur.com/Mr7XPii.png" tvg-id="Kanal26.tr@SD" tvg-country="TR" group-title="Turkey",Kanal 26 (720p) [Not 24/7]
+https://live.artidijitalmedya.com/artidijital_kanal26/kanal26/playlist.m3u8
+#EXTINF:-1 tvg-name="Kanal 32 (720p) [Not 24/7]" tvg-logo="" tvg-id="Kanal32.tr@SD" tvg-country="TR" group-title="Turkey",Kanal 32 (720p) [Not 24/7]
+https://edge1.socialsmart.tv/kanal32/bant1/playlist.m3u8
+#EXTINF:-1 tvg-name="Kanal 33 (720p) [Not 24/7]" tvg-logo="https://i.imgur.com/5WYaoFZ.png" tvg-id="Kanal33.tr@SD" tvg-country="TR" group-title="Turkey",Kanal 33 (720p) [Not 24/7]
+https://edge1.socialsmart.tv/kanal33/bant1/playlist.m3u8
+#EXTINF:-1 tvg-name="Kanal 34 (720p) [Not 24/7]" tvg-logo="https://i.imgur.com/SIaI6Sj.png" tvg-id="Kanal34.tr@SD" tvg-country="TR" group-title="Turkey",Kanal 34 (720p) [Not 24/7]
+https://vdo.digitalbox.xyz:3266/live/kanal34tvlive.m3u8
+#EXTINF:-1 tvg-name="Kanal 58 (720p) [Not 24/7]" tvg-logo="https://i.imgur.com/Rgc66sv.png" tvg-id="Kanal58.tr@SD" tvg-country="TR" group-title="Turkey",Kanal 58 (720p) [Not 24/7]
+https://live.artidijitalmedya.com/artidijital_kanal58/kanal58/playlist.m3u8
+#EXTINF:-1 tvg-name="Kanal Firat (720p) [Not 24/7]" tvg-logo="https://i.imgur.com/3o8Rokp.png" tvg-id="KanalFirat.tr@SD" tvg-country="TR" group-title="Turkey",Kanal Firat (720p) [Not 24/7]
+https://live.artidijitalmedya.com/artidijital_kanalfirat/kanalfirat/playlist.m3u8
+#EXTINF:-1 tvg-name="Kanal Hayat (1080p)" tvg-logo="https://i.imgur.com/eikZj19.png" tvg-id="KanalHayat.tr@SD" tvg-country="TR" group-title="Turkey",Kanal Hayat (1080p)
+https://tbn02a.ltnschedule.com/hls/nx21i.m3u8
+#EXTINF:-1 tvg-name="Kanal V (720p) [Not 24/7]" tvg-logo="https://i.imgur.com/7RNjTno.png" tvg-id="KanalV.tr@SD" tvg-country="TR" group-title="Turkey",Kanal V (720p) [Not 24/7]
+https://live.artidijitalmedya.com/artidijital_kanalv/kanalv/playlist.m3u8
+#EXTINF:-1 tvg-name="Kay TV (576p) [Geo-blocked]" tvg-logo="https://i.imgur.com/MymuDJ1.png" tvg-id="KayTV.tr@SD" tvg-country="TR" group-title="Turkey",Kay TV (576p) [Geo-blocked]
+https://live.artidijitalmedya.com/artidijital_kaytv/kaytv/playlist.m3u8
+#EXTINF:-1 tvg-name="Kent Turk (1080p) [Not 24/7]" tvg-logo="https://i.imgur.com/FQKPjsm.png" tvg-id="KentTurk.tr@SD" tvg-country="TR" group-title="Turkey",Kent Turk (1080p) [Not 24/7]
+https://live.artidijitalmedya.com/artidijital_kentturktv/kentturktv/playlist.m3u8
+#EXTINF:-1 tvg-name="KN Music TV" tvg-logo="https://www.knmusictv.com/wp-content/uploads/2026/01/LOGO2112.png" tvg-id="KNMusicTV.az@SD" tvg-country="TR" group-title="Turkey",KN Music TV
+https://cdn4.yayin.com.tr/kntv/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-name="Kocaeli TV (1080p)" tvg-logo="https://i.imgur.com/LeTP4zq.png" tvg-id="KocaeliTV.tr@SD" tvg-country="TR" group-title="Turkey",Kocaeli TV (1080p)
+https://edge.taksimbilisim.com/kocaelitv/bant1/playlist.m3u8
+#EXTINF:-1 tvg-name="Konya Olay TV (720p)" tvg-logo="https://www.konyaolaytv.com/upload/tema/20230307__5154687762.jpg" tvg-id="KonyaOlayTV.tr@SD" tvg-country="TR" group-title="Turkey",Konya Olay TV (720p)
+https://live.artidijitalmedya.com/artidijital_konyaolaytv/konyaolaytv/playlist.m3u8
+#EXTINF:-1 tvg-name="Lalegul TV (1080p)" tvg-logo="https://i.imgur.com/wwCysFs.png" tvg-id="LalegulTV.tr@SD" tvg-country="TR" group-title="Turkey",Lalegul TV (1080p)
+https://lbl.netmedya.net/hls/lalegultv.m3u8
+#EXTINF:-1 tvg-name="Life TV (Turkiye) (720p) [Not 24/7]" tvg-logo="https://i.imgur.com/lWeJxm0.png" tvg-id="LifeTV.tr@SD" tvg-country="TR" group-title="Turkey",Life TV (Turkiye) (720p) [Not 24/7]
+https://live.artidijitalmedya.com/artidijital_lifetv/lifetv/playlist.m3u8
+#EXTINF:-1 tvg-name="Line TV (720p) [Not 24/7]" tvg-logo="https://i.imgur.com/6GNp7f8.png" tvg-id="LineTV.tr@SD" tvg-country="TR" group-title="Turkey",Line TV (720p) [Not 24/7]
+https://edge1.socialsmart.tv/linetv/bant1/playlist.m3u8
+#EXTINF:-1 tvg-name="Luys TV (1080p)" tvg-logo="https://i.imgur.com/9EruWIQ.png" tvg-id="LuysTV.tr@SD" tvg-country="TR" group-title="Turkey",Luys TV (1080p)
+https://b01c02nl.mediatriple.net/videoonlylive/mtpayqrfkgirxelive/broadcast_5e91c5ac96898.smil/playlist.m3u8
+#EXTINF:-1 tvg-name="MaviKaradeniz TV (1080p) [Not 24/7]" tvg-logo="https://i.imgur.com/wyWappU.png" tvg-id="MaviKaradenizTV.tr@SD" tvg-country="TR" group-title="Turkey",MaviKaradeniz TV (1080p) [Not 24/7]
+https://live.artidijitalmedya.com/artidijital_mavikaradeniz/mavikaradeniz/playlist.m3u8
+#EXTINF:-1 tvg-name="Med Muzik (1080p)" tvg-logo="https://i.imgur.com/gtUFmCD.png" tvg-id="MedMuzik.tr@SD" tvg-country="TR" group-title="Turkey",Med Muzik (1080p)
+http://54.36.110.140/live3/live3.m3u8
+#EXTINF:-1 tvg-name="Meltem TV (1080p)" tvg-logo="https://i.imgur.com/C3m6w5S.png" tvg-id="MeltemTV.tr@SD" tvg-country="TR" group-title="Turkey",Meltem TV (1080p)
+https://vhxyrsly.rocketcdn.com/meltemtv/playlist.m3u8
+#EXTINF:-1 tvg-name="Mercan TV (576p) [Not 24/7]" tvg-logo="https://i.imgur.com/3CWV8bS.png" tvg-id="MercanTV.tr@SD" tvg-country="TR" group-title="Turkey",Mercan TV (576p) [Not 24/7]
+https://live.artidijitalmedya.com/artidijital_mercantv/mercantv/playlist.m3u8
+#EXTINF:-1 tvg-name="MovieSmart Turk (576p)" tvg-logo="https://i.imgur.com/DWN9ulT.png" tvg-id="MovieSmartTurk.tr@SD" tvg-country="TR" group-title="Turkey",MovieSmart Turk (576p)
+http://playhdnewjj.xyz:8080/recc121412/KVqfhtdJ2nQ7/174
+#EXTINF:-1 tvg-name="MTurk TV (1080p)" tvg-logo="https://i.imgur.com/xj1gvrq.png" tvg-id="MTurkTV.tr@SD" tvg-country="TR" group-title="Turkey",MTurk TV (1080p)
+https://edge1.socialsmart.tv/muglaturk/bant1/playlist.m3u8
+#EXTINF:-1 tvg-name="Natural TV (720p) [Not 24/7]" tvg-logo="https://i.imgur.com/rfcJ674.png" tvg-id="NaturalTV.tr@SD" tvg-country="TR" group-title="Turkey",Natural TV (720p) [Not 24/7]
+http://broadcasttr.com:1935/naturaltv/bant1/playlist.m3u8
+#EXTINF:-1 tvg-name="Number 1 Ask (720p)" tvg-logo="https://i.imgur.com/slwbux7.png" tvg-id="Number1Ask.tr@SD" tvg-country="TR" group-title="Turkey",Number 1 Ask (720p)
+https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/u_stream_5c9e18f9cea15_1/playlist.m3u8
+#EXTINF:-1 tvg-name="Number 1 Damar (720p)" tvg-logo="https://i.imgur.com/rYtbAGZ.png" tvg-id="Number1Damar.tr@SD" tvg-country="TR" group-title="Turkey",Number 1 Damar (720p)
+https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/u_stream_5c9e198784bdc_1/playlist.m3u8
+#EXTINF:-1 tvg-name="Number 1 Dance (720p)" tvg-logo="https://i.imgur.com/ZM4PSyq.png" tvg-id="Number1Dance.tr@SD" tvg-country="TR" group-title="Turkey",Number 1 Dance (720p)
+https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/u_stream_5c9e2aa8acf44_1/playlist.m3u8
+#EXTINF:-1 tvg-name="Number 1 TV (720p)" tvg-logo="https://i.imgur.com/02cDIBi.png" tvg-id="Number1TV.tr@SD" tvg-country="TR" group-title="Turkey",Number 1 TV (720p)
+https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/broadcast_5c9e17cd59e8b.smil/playlist.m3u8
+#EXTINF:-1 tvg-name="OlayTurk TV (720p) [Geo-blocked]" tvg-logo="https://i.imgur.com/e9ca6gc.png" tvg-id="OlayTurkTV.tr@SD" tvg-country="TR" group-title="Turkey",OlayTurk TV (720p) [Geo-blocked]
+https://live.artidijitalmedya.com/artidijital_olayturk/olayturk/playlist.m3u8
+#EXTINF:-1 tvg-name="On4 TV (1080p)" tvg-logo="https://i.imgur.com/qGRa1KI.png" tvg-id="On4TV.tr@SD" tvg-country="TR" group-title="Turkey",On4 TV (1080p)
+https://edge1.socialsmart.tv/on4/bant1/playlist.m3u8
+#EXTINF:-1 tvg-name="Persiana Turkiye" tvg-logo="" tvg-id="PersianaTurkiye.fr@SD" tvg-country="TR" group-title="Turkey",Persiana Turkiye
+https://turkhls.persiana.live/hls/stream.m3u8
+#EXTINF:-1 tvg-name="Power Dance (1080p)" tvg-logo="https://i.imgur.com/QpPteBO.png" tvg-id="PowerDance.tr@SD" tvg-country="TR" group-title="Turkey",Power Dance (1080p)
+https://livetv.powerapp.com.tr/dance/dance.smil/playlist.m3u8
+#EXTINF:-1 tvg-name="Power Love (1080p)" tvg-logo="https://i.imgur.com/0RzUswR.png" tvg-id="PowerLove.tr@SD" tvg-country="TR" group-title="Turkey",Power Love (1080p)
+https://livetv.powerapp.com.tr/plove/love.smil/playlist.m3u8
+#EXTINF:-1 tvg-name="Power TV (Turkiye) (1080p)" tvg-logo="https://i.imgur.com/XSL1gd7.png" tvg-id="PowerTV.tr@SD" tvg-country="TR" group-title="Turkey",Power TV (Turkiye) (1080p)
+https://livetv.powerapp.com.tr/powerTV/powerhd.smil/playlist.m3u8
+#EXTINF:-1 tvg-name="PowerTurk Akustik (1080p)" tvg-logo="https://i.imgur.com/driabBO.png" tvg-id="PowerTurkAkustik.tr@SD" tvg-country="TR" group-title="Turkey",PowerTurk Akustik (1080p)
+https://livetv.powerapp.com.tr/pturkakustik/akustik.smil/playlist.m3u8
+#EXTINF:-1 tvg-name="PowerTurk Slow (1080p)" tvg-logo="https://i.imgur.com/tQSoQXW.png" tvg-id="PowerTurkSlow.tr@SD" tvg-country="TR" group-title="Turkey",PowerTurk Slow (1080p)
+https://livetv.powerapp.com.tr/pturkslow/slow.smil/playlist.m3u8
+#EXTINF:-1 tvg-name="PowerTurk Taptaze (1080p)" tvg-logo="https://i.imgur.com/a5nW3HU.png" tvg-id="PowerTurkTaptaze.tr@SD" tvg-country="TR" group-title="Turkey",PowerTurk Taptaze (1080p)
+https://livetv.powerapp.com.tr/pturktaptaze/taptaze.smil/playlist.m3u8
+#EXTINF:-1 tvg-name="PowerTurk TV (720p)" tvg-logo="https://i.imgur.com/9OPoXQG.png" tvg-id="PowerTurkTV.tr@SD" tvg-country="TR" group-title="Turkey",PowerTurk TV (720p)
+https://live.artidijitalmedya.com/artidijital_powerturktv/powerturktv/playlist.m3u8
+#EXTINF:-1 tvg-name="Qaf TV (1080p)" tvg-logo="https://i.imgur.com/hrk7Uce.png" tvg-id="QafTV.tr@SD" tvg-country="TR" group-title="Turkey",Qaf TV (1080p)
+https://customer-9vqui33qma2rownb.cloudflarestream.com/7792e558fe54e23bdd4b462ec275cdba/manifest/video.m3u8
+#EXTINF:-1 tvg-name="RTG int." tvg-logo="https://i.imgur.com/ZpUNou4.png" tvg-id="RTGint.ru@SD" tvg-country="TR" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3" group-title="Turkey",RTG int.
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3
+http://213.91.179.28:8000/play/a0bw
+#EXTINF:-1 tvg-name="S Sport 2 (720p)" tvg-logo="https://i.imgur.com/2jIItAy.png" tvg-id="SSport2.tr@SD" tvg-country="TR" group-title="Turkey",S Sport 2 (720p)
+https://corestream.siteyaptim.live/s-sport2/index.m3u8
+#EXTINF:-1 tvg-name="S Sport (720p)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a9/S_Sport_logo1.png" tvg-id="SSport.tr@SD" tvg-country="TR" group-title="Turkey",S Sport (720p)
+https://corestream.siteyaptim.live/s-sport/index.m3u8
+#EXTINF:-1 tvg-name="Sat 7 Turk (1080p)" tvg-logo="https://i.imgur.com/cKQIK4i.png" tvg-id="Sat7Turk.cy@SD" tvg-country="TR" group-title="Turkey",Sat 7 Turk (1080p)
+https://live.artidijitalmedya.com/artidijital_sat7turk/sat7turk/playlist.m3u8
+#EXTINF:-1 tvg-name="Semerkand TV (1080p) [Not 24/7]" tvg-logo="https://i.imgur.com/UVGGrQd.png" tvg-id="SemerkandTV.tr@SD" tvg-country="TR" group-title="Turkey",Semerkand TV (1080p) [Not 24/7]
+https://b01c02nl.mediatriple.net/videoonlylive/mtisvwurbfcyslive/broadcast_58d915bd40efc.smil/playlist.m3u8
+#EXTINF:-1 tvg-name="Sercem TV (1080p)" tvg-logo="https://sercemtv.com.tr/sercemlogo.jpg" tvg-id="SercemTV.tr@HD" tvg-country="TR" group-title="Turkey",Sercem TV (1080p)
+https://canli.sercemtv.com.tr/hls/0/stream.m3u8
+#EXTINF:-1 tvg-name="Show Turk (1080p)" tvg-logo="https://i.imgur.com/fdZpGDj.png" tvg-id="ShowTurk.tr@SD" tvg-country="TR" group-title="Turkey",Show Turk (1080p)
+https://raw.githubusercontent.com/bnyusuf67-crypto/streams/refs/heads/main/streams/shturk.m3u8
+#EXTINF:-1 tvg-name="Spacetoon Turkey (720p) [Not 24/7]" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/2/2b/Spacetoon_logo.png" tvg-id="SpacetoonTurkey.tr@SD" tvg-country="TR" http-referrer="https://spacetoon.com.tr/" group-title="Turkey",Spacetoon Turkey (720p) [Not 24/7]
+#EXTVLCOPT:http-referrer=https://spacetoon.com.tr/
+https://live-tr-next.spacetoongo.com/ST_TR_NEXT/hls/h7qefeiwfbjn1.m3u8
+#EXTINF:-1 tvg-name="Sun RTV (720p) [Not 24/7]" tvg-logo="https://i.imgur.com/64tph9N.png" tvg-id="SunRTV.tr@SD" tvg-country="TR" group-title="Turkey",Sun RTV (720p) [Not 24/7]
+https://live.artidijitalmedya.com/artidijital_sunrtv/sunrtv/playlist.m3u8
+#EXTINF:-1 tvg-name="Tempo TV (720p)" tvg-logo="https://i.imgur.com/tZpx32y.png" tvg-id="TempoTV.tr@SD" tvg-country="TR" group-title="Turkey",Tempo TV (720p)
+https://live.artidijitalmedya.com/artidijital_tempotv/tempotv/playlist.m3u8
+#EXTINF:-1 tvg-name="TGRT Belgesel (576p) [Not 24/7]" tvg-logo="https://i.imgur.com/VwWTnf0.png" tvg-id="TGRTBelgesel.tr@SD" tvg-country="TR" group-title="Turkey",TGRT Belgesel (576p) [Not 24/7]
+https://b01c02nl.mediatriple.net/videoonlylive/mtsxxkzwwuqtglive/broadcast_5fe462afc6a0e.smil/playlist.m3u8
+#EXTINF:-1 tvg-name="TGRT Haber (720p)" tvg-logo="https://i.imgur.com/PrxwKDw.png" tvg-id="TGRTHaber.tr@SD" tvg-country="TR" group-title="Turkey",TGRT Haber (720p)
+https://canli.tgrthaber.com/tgrt.m3u8
+#EXTINF:-1 tvg-name="Tivi 6 (720p)" tvg-logo="https://i.imgur.com/Mbi0jbz.png" tvg-id="Tivi6.tr@SD" tvg-country="TR" group-title="Turkey",Tivi 6 (720p)
+https://live.artidijitalmedya.com/artidijital_tivi6/tivi6/playlist.m3u8
+#EXTINF:-1 tvg-name="TJK TV 2 (1080p) [Not 24/7]" tvg-logo="https://i.imgur.com/3zHdkYG.png" tvg-id="TJKTV2.tr@SD" tvg-country="TR" group-title="Turkey",TJK TV 2 (1080p) [Not 24/7]
+https://tjktv-live.tjk.org/tjktv2/tjktv2.m3u8
+#EXTINF:-1 tvg-name="TJK TV (1080p)" tvg-logo="https://i.imgur.com/3zHdkYG.png" tvg-id="TJKTV.tr@SD" tvg-country="TR" group-title="Turkey",TJK TV (1080p)
+https://tjktv-live.tjk.org/tjktv.m3u8
+#EXTINF:-1 tvg-name="Ton TV (720p) [Not 24/7]" tvg-logo="https://i.imgur.com/f0Soeob.png" tvg-id="TonTV.tr@SD" tvg-country="TR" group-title="Turkey",Ton TV (720p) [Not 24/7]
+https://live.artidijitalmedya.com/artidijital_tontv/tontv/playlist.m3u8
+#EXTINF:-1 tvg-name="TRT 3 (720p)" tvg-logo="https://i.imgur.com/JrWFwBd.png" tvg-id="TRT3.tr@SD" tvg-country="TR" group-title="Turkey",TRT 3 (720p)
+https://tv-trt3.live.trt.com.tr/master.m3u8
+#EXTINF:-1 tvg-name="TRT Genc (1440p) [Geo-blocked]" tvg-logo="https://i.imgur.com/fCHQYWS.png" tvg-id="TRTGenc.tr@SD" tvg-country="TR" group-title="Turkey",TRT Genc (1440p) [Geo-blocked]
+https://tv-trtgenc.medya.trt.com.tr/master.m3u8
+#EXTINF:-1 tvg-name="TRT Spor Yildiz (1440p) [Geo-blocked]" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/TRT_Spor_Y%C4%B1ld%C4%B1z_Logo.svg/960px-TRT_Spor_Y%C4%B1ld%C4%B1z_Logo.svg.png" tvg-id="TRTSporYildiz.tr@SD" tvg-country="TR" group-title="Turkey",TRT Spor Yildiz (1440p) [Geo-blocked]
+https://trt.daioncdn.net/trtspor-yildiz/master.m3u8?app=web&platform=trtspor
+#EXTINF:-1 tvg-name="TurkHaber TV (720p)" tvg-logo="https://i.imgur.com/2AcRKdL.png" tvg-id="TurkHaberTV.tr@SD" tvg-country="TR" group-title="Turkey",TurkHaber TV (720p)
+https://edge1.socialsmart.tv/turkhaber/bant1/playlist.m3u8
+#EXTINF:-1 tvg-name="TV 1 (720p)" tvg-logo="https://i.imgur.com/8CtrYVb.png" tvg-id="TV1.tr@SD" tvg-country="TR" group-title="Turkey",TV 1 (720p)
+https://edge1.socialsmart.tv/tv1/bant1/playlist.m3u8
+#EXTINF:-1 tvg-name="TV 41 (720p) [Not 24/7]" tvg-logo="https://i.imgur.com/6T472LM.png" tvg-id="TV41.tr@SD" tvg-country="TR" group-title="Turkey",TV 41 (720p) [Not 24/7]
+http://stream.taksimbilisim.com:1935/tv41/bant1/TV41.m3u8
+#EXTINF:-1 tvg-name="TV 42" tvg-logo="https://www.tv42.com.tr/logo.png" tvg-id="TV42.tr@SD" tvg-country="TR" group-title="Turkey",TV 42
+https://canli.tv42.com.tr/memfs/d936e417-c4bd-4d42-89a2-02f289892d1d.m3u8
+#EXTINF:-1 tvg-name="TV 52 (720p) [Not 24/7]" tvg-logo="https://i.imgur.com/k4R5CzO.png" tvg-id="TV52.tr@SD" tvg-country="TR" group-title="Turkey",TV 52 (720p) [Not 24/7]
+https://edge1.socialsmart.tv/tv52/bant1/playlist.m3u8
+#EXTINF:-1 tvg-name="TV 264 (1080p)" tvg-logo="https://i.imgur.com/tudXdOZ.png" tvg-id="TV264.tr@SD" tvg-country="TR" group-title="Turkey",TV 264 (1080p)
+https://b01c02nl.mediatriple.net/videoonlylive/mtdxkkitgbrckilive/broadcast_5ee244263fd6d.smil/playlist.m3u8
+#EXTINF:-1 tvg-name="TV Den (576p) [Not 24/7]" tvg-logo="https://i.imgur.com/Uhg95Ze.png" tvg-id="TVDen.tr@SD" tvg-country="TR" group-title="Turkey",TV Den (576p) [Not 24/7]
+http://canli.tvden.com.tr/hls/live.m3u8
+#EXTINF:-1 tvg-name="Urfa Natik TV (720p)" tvg-logo="https://i.imgur.com/8KO0uxn.png" tvg-id="UrfaNatikTV.tr@SD" tvg-country="TR" group-title="Turkey",Urfa Natik TV (720p)
+https://live.artidijitalmedya.com/artidijital_urfanatiktv/urfanatiktv/playlist.m3u8
+#EXTINF:-1 tvg-name="Van 65 TV" tvg-logo="https://van65tv.com/assets/images/logo/logo.png" tvg-id="Van65TV.tr@SD" tvg-country="TR" group-title="Turkey",Van 65 TV
+https://live.artidijitalmedya.com/artidijital_van65/van65/playlist.m3u8
+#EXTINF:-1 tvg-name="Vav TV" tvg-logo="https://i.imgur.com/jw0gB8L.png" tvg-id="VavTV.tr@SD" tvg-country="TR" group-title="Turkey",Vav TV
+https://playlist.fasttvcdn.com/pl/rfrk9821hdy9dayo8wfyha/kltr-sanat-tv/playlist.m3u8
+#EXTINF:-1 tvg-name="Viasat History (Turkiye) (720p)" tvg-logo="https://i.imgur.com/wRP9XA7.png" tvg-id="ViasatHistory.tr@SD" tvg-country="TR" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36" group-title="Turkey",Viasat History (Turkiye) (720p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
+https://nord.ayakkabiparti.lol/viasathistory/index.m3u8
+#EXTINF:-1 tvg-name="YOL TV" tvg-logo="https://i.imgur.com/rTBX6lS.png" tvg-id="YOLTV.de@SD" tvg-country="TR" group-title="Turkey",YOL TV
+https://live.yoltv.com/hls/stream.m3u8
+#EXTINF:-1 tvg-name="Zarok TV (720p)" tvg-logo="https://i.imgur.com/o0eevnb.png" tvg-id="ZarokTV.tr@SD" tvg-country="TR" group-title="Turkey",Zarok TV (720p)
+https://zindikurmanci.zaroktv.com.tr/hls/stream.m3u8
 #EXTINF:-1 tvg-name="SVT 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/SVT1_logo_2016.svg/960px-SVT1_logo_2016.svg.png" tvg-id="SVT1.se" tvg-chno="1" tvg-country="SE" group-title="Sweden",SVT 1 Ⓖ
 https://svt-live-channel.akamaized.net/l4/se/svt1/manifest.mpd?format=dash&defaultSubLang=1
 #EXTINF:-1 tvg-name="SVT 2" tvg-logo="https://i.imgur.com/iB3veGx.png" tvg-id="SVT2.se" tvg-chno="2" tvg-country="SE" group-title="Sweden",SVT 2 Ⓖ
@@ -146,3 +410,280 @@ https://www.youtube.com/@LtvuSeTube/live
 https://aryen.tv/live/tv/playlist.m3u8
 #EXTINF:-1 tvg-name="Suryoyo Sat" tvg-logo="https://i.imgur.com/naCNjaB.png" tvg-id="SuryoyoSat.se" tvg-chno="2" tvg-country="SE" group-title="Sweden",Suryoyo Sat
 https://player-api.new.livestream.com/accounts/10187302/events/6785118/broadcasts/237816618.secure.m3u8
+#EXTINF:-1 tvg-name="7th Heaven" tvg-logo="https://images.pluto.tv/channels/6728c9c85534bb0008b320a4/colorLogoPNG.png" tvg-id="7thHeaven.se@SE" tvg-country="SE" group-title="Sweden",7th Heaven
+https://jmp2.uk/plu-6728cab6e482950008b76d8c.m3u8
+#EXTINF:-1 tvg-name="Are You The One?" tvg-logo="https://images.pluto.tv/channels/61c091c39863900007ac9e8f/colorLogoPNG.png" tvg-id="AreYouTheOne.se@SE" tvg-country="SE" group-title="Sweden",Are You The One?
+https://jmp2.uk/plu-61c0ac242bb0cf0007015f89.m3u8
+#EXTINF:-1 tvg-name="Auction Hunters (Sweden)" tvg-logo="https://images.pluto.tv/channels/62da73c4ec46c000070f4cb1/colorLogoPNG.png" tvg-id="AuctionHunters.se@SE" tvg-country="SE" group-title="Sweden",Auction Hunters (Sweden)
+https://jmp2.uk/plu-62da7380478a5b0007e610d9.m3u8
+#EXTINF:-1 tvg-name="Beavis and Butt-Head" tvg-logo="https://images.pluto.tv/channels/6486e8984cfc2c0008b6844e/colorLogoPNG.png" tvg-id="BeavisandButtHead.se@SE" tvg-country="SE" group-title="Sweden",Beavis and Butt-Head
+https://jmp2.uk/plu-6486e8b48e3c0a0008e56914.m3u8
+#EXTINF:-1 tvg-name="Becker (Sweden)" tvg-logo="https://images.pluto.tv/channels/672e157d7d5da5000812872d/colorLogoPNG-1731073515797.png" tvg-id="Becker.se@SE" tvg-country="SE" group-title="Sweden",Becker (Sweden)
+https://jmp2.uk/plu-672e16f5daad7f0008929a0d.m3u8
+#EXTINF:-1 tvg-name="Best of MTV" tvg-logo="https://images.pluto.tv/channels/632aff5e44111b00076ad9b1/colorLogoPNG_1767773210944.png" tvg-id="BestofMTV.se@SE" tvg-country="SE" group-title="Sweden",Best of MTV
+https://jmp2.uk/plu-632afdf820e83e000710ea12.m3u8
+#EXTINF:-1 tvg-name="Best of Paradise Hotel: Finalveckan" tvg-logo="https://images.pluto.tv/channels/65e97d41f7f0af0008da2543/colorLogoPNG.png" tvg-id="BestofParadiseHotelFinalveckan.se@SE" tvg-country="SE" group-title="Sweden",Best of Paradise Hotel: Finalveckan
+https://jmp2.uk/plu-65e97d41f7f0af0008da2543.m3u8
+#EXTINF:-1 tvg-name="Best of Paradise Hotel: Kyssar & karlek" tvg-logo="https://images.pluto.tv/channels/65b1077e0d9ab40008245b20/colorLogoPNG.png" tvg-id="BestofParadiseHotelKyssarkarlek.se@SE" tvg-country="SE" group-title="Sweden",Best of Paradise Hotel: Kyssar & karlek
+https://jmp2.uk/plu-65b1077e0d9ab40008245b20.m3u8
+#EXTINF:-1 tvg-name="Best of Paradise Hotel: Pandoras Ask" tvg-logo="https://images.pluto.tv/channels/65e97d760d456100082da660/colorLogoPNG.png" tvg-id="BestofParadiseHotelPandorasAsk.se@SE" tvg-country="SE" group-title="Sweden",Best of Paradise Hotel: Pandoras Ask
+https://jmp2.uk/plu-65e97d760d456100082da660.m3u8
+#EXTINF:-1 tvg-name="Best of Paradise Hotel: Skolveckan" tvg-logo="https://images.pluto.tv/channels/65e97cd118036500082ed0ce/colorLogoPNG.png" tvg-id="BestofParadiseHotelSkolveckan.se@SE" tvg-country="SE" group-title="Sweden",Best of Paradise Hotel: Skolveckan
+https://jmp2.uk/plu-65e97cd118036500082ed0ce.m3u8
+#EXTINF:-1 tvg-name="Best of The Drew Barrymore Show (Sweden)" tvg-logo="https://images.pluto.tv/channels/62beb692cda2b10007d5fd76/colorLogoPNG.png" tvg-id="BestofTheDrewBarrymoreShow.se@SE" tvg-country="SE" group-title="Sweden",Best of The Drew Barrymore Show (Sweden)
+https://jmp2.uk/plu-630483153a21200007f1920f.m3u8
+#EXTINF:-1 tvg-name="BET (Sweden)" tvg-logo="https://images.pluto.tv/channels/61c1939b8929e40007ff6382/colorLogoPNG.png" tvg-id="BET.se@SE" tvg-country="SE" group-title="Sweden",BET (Sweden)
+https://jmp2.uk/plu-61c187ef1efe1b0007571711.m3u8
+#EXTINF:-1 tvg-name="Bondi Rescue (Sweden) (720p)" tvg-logo="https://images.pluto.tv/channels/660d66be7bcd8600087cfee5/colorLogoPNG.png" tvg-id="BondiRescue.se@SE" tvg-country="SE" group-title="Sweden",Bondi Rescue (Sweden) (720p)
+https://jmp2.uk/plu-660d67eec8311c0008b8c3f7.m3u8
+#EXTINF:-1 tvg-name="Britain's Next Top Model" tvg-logo="https://images.pluto.tv/channels/67a09ddc21af380008088dc3/colorLogoPNG.png" tvg-id="BritainsNextTopModel.se@SE" tvg-country="SE" group-title="Sweden",Britain's Next Top Model
+https://jmp2.uk/plu-67a09e5921af38000808900a.m3u8
+#EXTINF:-1 tvg-name="Broad City" tvg-logo="https://images.pluto.tv/channels/65cba73611ced700082123bc/colorLogoPNG.png" tvg-id="BroadCity.se@SE" tvg-country="SE" group-title="Sweden",Broad City
+https://jmp2.uk/plu-65cba7b1ec452d0008acbed8.m3u8
+#EXTINF:-1 tvg-name="Bull" tvg-logo="https://images.pluto.tv/channels/6964b982ca459f9b939da8e6/colorLogoPNG_1770900947317.png" tvg-id="Bull.se@SE" tvg-country="SE" group-title="Sweden",Bull
+https://jmp2.uk/plu-6964b9e19bf57be1537fc7d7.m3u8
+#EXTINF:-1 tvg-name="Buying Blind Denmark" tvg-logo="https://images.pluto.tv/channels/63c6a7544faf1c0007b496d7/colorLogoPNG.png" tvg-id="BuyingBlindDenmark.se@SE" tvg-country="SE" group-title="Sweden",Buying Blind Denmark
+https://jmp2.uk/plu-63c6a7544faf1c0007b496d7.m3u8
+#EXTINF:-1 tvg-name="Camp Kulinaris" tvg-logo="https://images.pluto.tv/channels/61c1dce2fb9ae40007d0ac15/colorLogoPNG.png" tvg-id="CampKulinaris.se@SE" tvg-country="SE" group-title="Sweden",Camp Kulinaris
+https://jmp2.uk/plu-6400bf66dff38e00083f4ee8.m3u8
+#EXTINF:-1 tvg-name="Car Chase (Sweden) (720p)" tvg-logo="https://images.pluto.tv/channels/65a93b0607e03a000895abda/colorLogoPNG.png" tvg-id="CarChase.se@SE" tvg-country="SE" group-title="Sweden",Car Chase (Sweden) (720p)
+https://jmp2.uk/plu-65a93be02fac9c00083cbac4.m3u8
+#EXTINF:-1 tvg-name="Caroline in the City" tvg-logo="https://images.pluto.tv/channels/66a7aa44cd0d31000843942b/colorLogoPNG.png" tvg-id="CarolineintheCity.se@SE" tvg-country="SE" group-title="Sweden",Caroline in the City
+https://jmp2.uk/plu-66a7ab4dcd0d3100084395b4.m3u8
+#EXTINF:-1 tvg-name="Chappelle's Show" tvg-logo="https://images.pluto.tv/channels/65e976ad0d456100082d9b74/colorLogoPNG.png" tvg-id="ChappellesShow.se@SE" tvg-country="SE" group-title="Sweden",Chappelle's Show
+https://jmp2.uk/plu-65e9783b0d456100082d9e05.m3u8
+#EXTINF:-1 tvg-name="Comedy Central (Sweden)" tvg-logo="https://images.pluto.tv/channels/61c0989431084d0007eab12d/colorLogoPNG.png" tvg-id="ComedyCentral.se@SE" tvg-country="SE" group-title="Sweden",Comedy Central (Sweden)
+https://jmp2.uk/plu-61c0b550e0d3a700072b6a2a.m3u8
+#EXTINF:-1 tvg-name="Crazy Ex-Girlfriend" tvg-logo="https://images.pluto.tv/channels/693ae5660eedebc8d5db6579/colorLogoPNG_1770039249880.png" tvg-id="CrazyExGirlfriend.se@SE" tvg-country="SE" group-title="Sweden",Crazy Ex-Girlfriend
+https://jmp2.uk/plu-693ae5b792fad2e93412a2c7.m3u8
+#EXTINF:-1 tvg-name="Dallas Cowboys Cheerleaders" tvg-logo="https://images.pluto.tv/channels/64e87c6b28cec700088ceb55/colorLogoPNG.png" tvg-id="DallasCowboysCheerleaders.se@SE" tvg-country="SE" group-title="Sweden",Dallas Cowboys Cheerleaders
+https://jmp2.uk/plu-64e7715c4c5ed800081230e4.m3u8
+#EXTINF:-1 tvg-name="Dating Naked UK" tvg-logo="https://images.pluto.tv/channels/692edc78d52ea9e4858cf78f/colorLogoPNG_1768226003744.png" tvg-id="DatingNakedUK.se@SE" tvg-country="SE" group-title="Sweden",Dating Naked UK
+https://jmp2.uk/plu-692edd6bdb8695f63e14f3b9.m3u8
+#EXTINF:-1 tvg-name="Diagnosis Murder" tvg-logo="https://images.pluto.tv/channels/668bf7dd74f5ec000817e6d1/colorLogoPNG.png" tvg-id="DiagnosisMurder.se@SE" tvg-country="SE" group-title="Sweden",Diagnosis Murder
+https://jmp2.uk/plu-668bf9be0642e5000815102d.m3u8
+#EXTINF:-1 tvg-name="Doc Martin (Sweden)" tvg-logo="https://images.pluto.tv/channels/62724ae034f5190007b63424/colorLogoPNG.png" tvg-id="DocMartin.se@SE" tvg-country="SE" group-title="Sweden",Doc Martin (Sweden)
+https://jmp2.uk/plu-62b1e5e77d15410007f798c6.m3u8
+#EXTINF:-1 tvg-name="Everybody Hates Chris" tvg-logo="https://images.pluto.tv/channels/63a1cab19ab2df0007bf1c8b/colorLogoPNG.png" tvg-id="EverybodyHatesChris.se@SE" tvg-country="SE" group-title="Sweden",Everybody Hates Chris
+https://jmp2.uk/plu-697b5be36dc3c71eb14d728a.m3u8
+#EXTINF:-1 tvg-name="Family Ties (Sweden)" tvg-logo="https://images.pluto.tv/channels/654a4a3ef91d250008ac089b/colorLogoPNG.png" tvg-id="FamilyTies.se@SE" tvg-country="SE" group-title="Sweden",Family Ties (Sweden)
+https://jmp2.uk/plu-654a510d986ad20008a45874.m3u8
+#EXTINF:-1 tvg-name="Frusna Vagar" tvg-logo="https://images.pluto.tv/channels/61c19099bf8c520007a93cff/colorLogoPNG.png" tvg-id="FrusnaVagar.se@SE" tvg-country="SE" group-title="Sweden",Frusna Vagar
+https://jmp2.uk/plu-61c19099bf8c520007a93cff.m3u8
+#EXTINF:-1 tvg-name="Geordie Shore (Sweden)" tvg-logo="https://images.pluto.tv/channels/6442512cee6a2f0008d3351f/colorLogoPNG.png" tvg-id="GeordieShore.se@SE" tvg-country="SE" group-title="Sweden",Geordie Shore (Sweden)
+https://jmp2.uk/plu-64424be3e94c380008d0a66d.m3u8
+#EXTINF:-1 tvg-name="Happy Days (Sweden)" tvg-logo="https://images.pluto.tv/channels/654a4e29ab05240008a18625/colorLogoPNG.png" tvg-id="HappyDays.se@SE" tvg-country="SE" group-title="Sweden",Happy Days (Sweden)
+https://jmp2.uk/plu-654a52254d6d8f00084eacfc.m3u8
+#EXTINF:-1 tvg-name="Himlen TV7 (720p)" tvg-logo="https://i.imgur.com/k8a7KNn.png" tvg-id="HimlenTV7.fi@SD" tvg-country="SE" group-title="Sweden",Himlen TV7 (720p)
+https://vod.tv7.fi/tv7-se/smil:tv7-se.smil/playlist.m3u8
+#EXTINF:-1 tvg-name="Hogspanning" tvg-logo="https://images.pluto.tv/channels/6537abf42cf1310008441686/colorLogoPNG.png" tvg-id="Hogspanning.se@SE" tvg-country="SE" group-title="Sweden",Hogspanning
+https://jmp2.uk/plu-6537abf42cf1310008441686.m3u8
+#EXTINF:-1 tvg-name="Horse & Country TV (1080p)" tvg-logo="https://i.imgur.com/1x6zYZr.png" tvg-id="HorseCountryTV.uk@SD" tvg-country="SE" group-title="Sweden",Horse & Country TV (1080p)
+https://hnc-free-viewlift.amagi.tv/HNC_AUSTRALIA.m3u8
+#EXTINF:-1 tvg-name="House of Lies" tvg-logo="https://images.pluto.tv/channels/693ae62a43fe00a023e76e0d/colorLogoPNG_1769415649672.png" tvg-id="HouseofLies.se@SE" tvg-country="SE" group-title="Sweden",House of Lies
+https://jmp2.uk/plu-693ae6bf0ddf7d2a40b7fd35.m3u8
+#EXTINF:-1 tvg-name="iCarly (Sweden)" tvg-logo="https://images.pluto.tv/channels/61c0b9aab7facb0007913908/colorLogoPNG.png" tvg-id="iCarly.se@SE" tvg-country="SE" group-title="Sweden",iCarly (Sweden)
+https://jmp2.uk/plu-61c185049e0bde0007820039.m3u8
+#EXTINF:-1 tvg-name="JAG (Sweden)" tvg-logo="https://images.pluto.tv/channels/654a4ab92c1d330008657ae5/colorLogoPNG.png" tvg-id="JAG.se@SE" tvg-country="SE" group-title="Sweden",JAG (Sweden)
+https://jmp2.uk/plu-654a515f986ad20008a4593b.m3u8
+#EXTINF:-1 tvg-name="Jersey Shore (Sweden)" tvg-logo="https://images.pluto.tv/channels/6442508e5a0cd500083edd3c/colorLogoPNG.png" tvg-id="JerseyShore.se@SE" tvg-country="SE" group-title="Sweden",Jersey Shore (Sweden)
+https://jmp2.uk/plu-64424c1be94c380008d0a98c.m3u8
+#EXTINF:-1 tvg-name="Jersey Shore Family Vacation" tvg-logo="https://images.pluto.tv/channels/6728c831c7626f0008b28127/colorLogoPNG.png" tvg-id="JerseyShoreFamilyVacation.se@SE" tvg-country="SE" group-title="Sweden",Jersey Shore Family Vacation
+https://jmp2.uk/plu-6728c8b45534bb0008b31f35.m3u8
+#EXTINF:-1 tvg-name="Judge Judy (Sweden)" tvg-logo="https://images.pluto.tv/channels/6380c36389eccc000858c50f/colorLogoPNG.png" tvg-id="JudgeJudy.se@SE" tvg-country="SE" group-title="Sweden",Judge Judy (Sweden)
+https://jmp2.uk/plu-6380c4ab81c8d2000790fbf3.m3u8
+#EXTINF:-1 tvg-name="Key & Peele" tvg-logo="https://images.pluto.tv/channels/65cba715dc10a40008034917/colorLogoPNG.png" tvg-id="KeyPeele.se@SE" tvg-country="SE" group-title="Sweden",Key & Peele
+https://jmp2.uk/plu-65cba798d77d450008d056e5.m3u8
+#EXTINF:-1 tvg-name="Klovn" tvg-logo="https://images.pluto.tv/channels/65a63ff00d9ab400080b101c/colorLogoPNG.png" tvg-id="Klovn.se@SE" tvg-country="SE" group-title="Sweden",Klovn
+https://jmp2.uk/plu-65a63ff00d9ab400080b101c.m3u8
+#EXTINF:-1 tvg-name="Komala TV" tvg-logo="https://i.imgur.com/D6KBLB8.png" tvg-id="KomalaTV.se@SD" tvg-country="SE" group-title="Sweden",Komala TV
+https://komhls.wns.live/hls/stream.m3u8
+#EXTINF:-1 tvg-name="Kunskapskanalen HD (1080p) [Geo-blocked]" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Kunskapskanalen_2017.svg/960px-Kunskapskanalen_2017.svg.png" tvg-id="Kunskapskanalen.se@HD" tvg-country="SE" group-title="Sweden",Kunskapskanalen HD (1080p) [Geo-blocked]
+https://svt-live-channel.akamaized.net/l6/se/svtk/master-fmp4.m3u8?defaultSubLang=1&format=hls
+#EXTINF:-1 tvg-name="Lyxfallan" tvg-logo="https://images.pluto.tv/channels/61c18f62f5acaf0007f83135/colorLogoPNG.png" tvg-id="Lyxfallan.se@SE" tvg-country="SE" group-title="Sweden",Lyxfallan
+https://jmp2.uk/plu-61c18f62f5acaf0007f83135.m3u8
+#EXTINF:-1 tvg-name="Lyxfallan Danmark" tvg-logo="https://images.pluto.tv/channels/61c19165decece0007e9b2f3/colorLogoPNG.png" tvg-id="LyxfallanDanmark.se@SE" tvg-country="SE" group-title="Sweden",Lyxfallan Danmark
+https://jmp2.uk/plu-61c19165decece0007e9b2f3.m3u8
+#EXTINF:-1 tvg-name="Lyxfallan Norge" tvg-logo="https://images.pluto.tv/channels/67f7d328efc5473b6b4ac5f4/colorLogoPNG_1745915912635.png" tvg-id="LyxfallanNorge.se@SE" tvg-country="SE" group-title="Sweden",Lyxfallan Norge
+https://jmp2.uk/plu-67f7d328efc5473b6b4ac5f4.m3u8
+#EXTINF:-1 tvg-name="MacGyver (Sweden)" tvg-logo="https://images.pluto.tv/channels/654a59742c1d33000865a797/colorLogoPNG.png" tvg-id="MacGyver.se@SE" tvg-country="SE" group-title="Sweden",MacGyver (Sweden)
+https://jmp2.uk/plu-63a19eceb3d0eb0007439c34.m3u8
+#EXTINF:-1 tvg-name="Man with a Plan" tvg-logo="https://images.pluto.tv/channels/678f88bb272ded16b1558c5e/colorLogoPNG.png" tvg-id="ManwithaPlan.se@SE" tvg-country="SE" group-title="Sweden",Man with a Plan
+https://jmp2.uk/plu-6825efbb9eed174f7ffbe5b0.m3u8
+#EXTINF:-1 tvg-name="Matlock (Sweden)" tvg-logo="https://images.pluto.tv/channels/66290a779e68c20008a18cf3/colorLogoPNG.png" tvg-id="Matlock.se@SE" tvg-country="SE" group-title="Sweden",Matlock (Sweden)
+https://jmp2.uk/plu-66290c12801af8000850c1a9.m3u8
+#EXTINF:-1 tvg-name="Medium (Sweden)" tvg-logo="https://images.pluto.tv/channels/68f0f54ca362b63a8df4d5a9/colorLogoPNG_1760622009795.png" tvg-id="Medium.se@SE" tvg-country="SE" group-title="Sweden",Medium (Sweden)
+https://jmp2.uk/plu-68f0f642a25ba0aab3e64e66.m3u8
+#EXTINF:-1 tvg-name="Merry Christmas from Viafree" tvg-logo="https://images.pluto.tv/channels/63048147b09fd60007847a08/colorLogoPNG.png" tvg-id="MerryChristmasfromViafree.se@SE" tvg-country="SE" group-title="Sweden",Merry Christmas from Viafree
+https://jmp2.uk/plu-6304854ac6073d0007259fe1.m3u8
+#EXTINF:-1 tvg-name="Miracle Channel (1080p)" tvg-logo="https://i.imgur.com/yrt7Rw9.png" tvg-id="MiracleChannel.se@SD" tvg-country="SE" group-title="Sweden",Miracle Channel (1080p)
+https://live.miracleonline.org/hls/miracle1.m3u8
+#EXTINF:-1 tvg-name="Mission Impossible (Sweden)" tvg-logo="https://images.pluto.tv/channels/6478a9e4f77b61000817034b/colorLogoPNG.png" tvg-id="MissionImpossible.se@SE" tvg-country="SE" group-title="Sweden",Mission Impossible (Sweden)
+https://jmp2.uk/plu-639b4f14be012600070fe1be.m3u8
+#EXTINF:-1 tvg-name="MTV Catfish (Sweden) (720p)" tvg-logo="https://images.pluto.tv/channels/6177fe76691b2e000702c7fc/colorLogoPNG_1750864554364.png" tvg-id="MTVCatfish.se@SE" tvg-country="SE" group-title="Sweden",MTV Catfish (Sweden) (720p)
+https://jmp2.uk/plu-61780d4267bf4d00077ddd73.m3u8
+#EXTINF:-1 tvg-name="MTV Dating (Sweden) (720p)" tvg-logo="https://images.pluto.tv/channels/6851407c21f49d1b9d177493/colorLogoPNG_1750843393149.png" tvg-id="MTVDating.se@SE" tvg-country="SE" group-title="Sweden",MTV Dating (Sweden) (720p)
+https://jmp2.uk/plu-685140f121f49d1b9d178249.m3u8
+#EXTINF:-1 tvg-name="MTV Ex On The Beach" tvg-logo="https://images.pluto.tv/channels/61c0909b872c650008ed42e4/colorLogoPNG.png" tvg-id="MTVExOnTheBeach.se@SE" tvg-country="SE" group-title="Sweden",MTV Ex On The Beach
+https://jmp2.uk/plu-61c09072a09bbe00078f5692.m3u8
+#EXTINF:-1 tvg-name="MTV Reality (Sweden) (720p)" tvg-logo="https://images.pluto.tv/channels/685137f4a1e091e16f2dd471/colorLogoPNG_1780301718240.png" tvg-id="MTVReality.se@SE" tvg-country="SE" group-title="Sweden",MTV Reality (Sweden) (720p)
+https://jmp2.uk/plu-685139b0f7d8b74b62f41c96.m3u8
+#EXTINF:-1 tvg-name="MTV Ridiculousness (Sweden) (720p)" tvg-logo="https://images.pluto.tv/channels/62cd9641393d8400076f34db/colorLogoPNG_1762770639864.png" tvg-id="MTVRidiculousness.se@SE" tvg-country="SE" group-title="Sweden",MTV Ridiculousness (Sweden) (720p)
+https://jmp2.uk/plu-62cda0dfddc1040008fccacc.m3u8
+#EXTINF:-1 tvg-name="MTV Teen Mom (Sweden) (720p)" tvg-logo="https://images.pluto.tv/channels/61c092157e1b8b0007372a35/colorLogoPNG_1748001686588.png" tvg-id="MTVTeenMom.se@SE" tvg-country="SE" group-title="Sweden",MTV Teen Mom (Sweden) (720p)
+https://jmp2.uk/plu-61c09342b3a6230007a45119.m3u8
+#EXTINF:-1 tvg-name="MTV The Hills" tvg-logo="https://images.pluto.tv/channels/61c09039ebd75200072587f9/colorLogoPNG.png" tvg-id="MTVTheHills.se@SE" tvg-country="SE" group-title="Sweden",MTV The Hills
+https://jmp2.uk/plu-61c08d7c73bdb800070eef0a.m3u8
+#EXTINF:-1 tvg-name="Nicktoons Scandinavia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d8/Nicktoons_UK_Logo_2014.png" tvg-id="NicktoonsScandinavia.nl@SD" tvg-country="SE" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Safari/537.36" group-title="Sweden",Nicktoons Scandinavia
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Safari/537.36
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/PE7C639D6VY8TCQQ4BYRZT7X/12059/index.m3u8
+#EXTINF:-1 tvg-name="NonStop Kung Fu" tvg-logo="https://images.pluto.tv/channels/6728d2be529ac9000830dc15/colorLogoPNG_1732110461260.png" tvg-id="NonStopKungFu.se@SE" tvg-country="SE" group-title="Sweden",NonStop Kung Fu
+https://jmp2.uk/plu-6728d33f030a2c0008edf4be.m3u8
+#EXTINF:-1 tvg-name="NRK1 (1080i) [Geo-blocked]" tvg-logo="https://i.imgur.com/9tj8ds7.png" tvg-id="NRK1.no@SD" tvg-country="SE" group-title="Sweden",NRK1 (1080i) [Geo-blocked]
+https://nrk-live-no.akamaized.net/nrk1/muxed.m3u8
+#EXTINF:-1 tvg-name="NRK2 (1080i) [Geo-blocked]" tvg-logo="https://i.imgur.com/SiAdoK9.png" tvg-id="NRK2.no@SD" tvg-country="SE" group-title="Sweden",NRK2 (1080i) [Geo-blocked]
+https://nrk-live-no.akamaized.net/nrk2/muxed.m3u8
+#EXTINF:-1 tvg-name="NRK3 (1080i) [Geo-blocked]" tvg-logo="https://i.imgur.com/TNhV2I7.png" tvg-id="NRK3.no@SD" tvg-country="SE" group-title="Sweden",NRK3 (1080i) [Geo-blocked]
+https://nrk-live-no.akamaized.net/nrk3/muxed.m3u8
+#EXTINF:-1 tvg-name="NRK Super (1080i) [Geo-blocked]" tvg-logo="https://i.imgur.com/xIATe2T.png" tvg-id="NRKSuper.no@SD" tvg-country="SE" group-title="Sweden",NRK Super (1080i) [Geo-blocked]
+https://nrk-live-no.akamaized.net/nrksuper/muxed.m3u8
+#EXTINF:-1 tvg-name="Numb3rs" tvg-logo="https://images.pluto.tv/channels/642e94c1af2bd90008852697/colorLogoPNG_1756716763207.png" tvg-id="Numb3rs.se@SE" tvg-country="SE" group-title="Sweden",Numb3rs
+https://jmp2.uk/plu-63dbe8a1c111bc0008dec8b8.m3u8
+#EXTINF:-1 tvg-name="Paradise" tvg-logo="https://images.pluto.tv/channels/629e095e511d4b00070c9f44/colorLogoPNG.png" tvg-id="Paradise.se@SE" tvg-country="SE" group-title="Sweden",Paradise
+https://jmp2.uk/plu-6380c73f76e43f000721f73b.m3u8
+#EXTINF:-1 tvg-name="Paradise Hotel" tvg-logo="https://images.pluto.tv/channels/61c19af83fae0a00078c8918/colorLogoPNG.png" tvg-id="ParadiseHotel.se@SE" tvg-country="SE" group-title="Sweden",Paradise Hotel
+https://jmp2.uk/plu-61c18e1e0cd4cc00076bc4b3.m3u8
+#EXTINF:-1 tvg-name="Pimp My Ride" tvg-logo="https://images.pluto.tv/channels/61c091343bf4940007803e03/colorLogoPNG.png" tvg-id="PimpMyRide.se@SE" tvg-country="SE" group-title="Sweden",Pimp My Ride
+https://jmp2.uk/plu-61c09a3894aa450007814aea.m3u8
+#EXTINF:-1 tvg-name="Pluto TV Action (Sweden)" tvg-logo="https://images.pluto.tv/channels/61c095861782bd000780e0ba/colorLogoPNG.png" tvg-id="PlutoTVAction.se@SE" tvg-country="SE" group-title="Sweden",Pluto TV Action (Sweden)
+https://jmp2.uk/plu-61c0b0688a80a4000703fbcb.m3u8
+#EXTINF:-1 tvg-name="Pluto TV Bud & Terence (Sweden)" tvg-logo="https://images.pluto.tv/channels/64be7398e4391c0008cdedfe/colorLogoPNG_1776936976930.png" tvg-id="PlutoTVBudTerence.se@SE" tvg-country="SE" group-title="Sweden",Pluto TV Bud & Terence (Sweden)
+https://jmp2.uk/plu-65b917720d9ab4000833f323.m3u8
+#EXTINF:-1 tvg-name="Pluto TV Buskis" tvg-logo="https://images.pluto.tv/channels/660d5f2a635c75000828855f/colorLogoPNG.png" tvg-id="PlutoTVBuskis.se@SE" tvg-country="SE" group-title="Sweden",Pluto TV Buskis
+https://jmp2.uk/plu-660d5f2a635c75000828855f.m3u8
+#EXTINF:-1 tvg-name="Pluto TV Dokumentar" tvg-logo="https://images.pluto.tv/channels/62b30b0060a9ca0007d628b4/colorLogoPNG.png" tvg-id="PlutoTVDokumentar.se@SE" tvg-country="SE" group-title="Sweden",Pluto TV Dokumentar
+https://jmp2.uk/plu-62b1e2498261390007f25c98.m3u8
+#EXTINF:-1 tvg-name="Pluto TV Film (Sweden)" tvg-logo="https://images.pluto.tv/channels/61c09515fbb4b50007d221f5/colorLogoPNG.png" tvg-id="PlutoTVFilm.se@SE" tvg-country="SE" group-title="Sweden",Pluto TV Film (Sweden)
+https://jmp2.uk/plu-61c0afa0a09bbe00078f8378.m3u8
+#EXTINF:-1 tvg-name="Pluto TV Handboll Highlights" tvg-logo="https://images.pluto.tv/channels/68dfa3e2cc3c6cd904052c41/colorLogoPNG_1761838923264.png" tvg-id="PlutoTVHandbollHighlights.se@SE" tvg-country="SE" group-title="Sweden",Pluto TV Handboll Highlights
+https://jmp2.uk/plu-68dfa3e2cc3c6cd904052c41.m3u8
+#EXTINF:-1 tvg-name="Pluto TV Handboll Live" tvg-logo="https://images.pluto.tv/channels/686faf533ffa5e0c912688e7/colorLogoPNG_1762169254016.png" tvg-id="PlutoTVHandbollLive.se@SE" tvg-country="SE" group-title="Sweden",Pluto TV Handboll Live
+https://jmp2.uk/plu-686faf533ffa5e0c912688e7.m3u8
+#EXTINF:-1 tvg-name="Pluto TV Harlequin" tvg-logo="https://images.pluto.tv/channels/68c01afa3efb41cd9759dafb/colorLogoPNG_1770018342774.png" tvg-id="PlutoTVHarlequin.se@SE" tvg-country="SE" group-title="Sweden",Pluto TV Harlequin
+https://jmp2.uk/plu-68c01bed508ba507f0d0dd60.m3u8
+#EXTINF:-1 tvg-name="Pluto TV Horror (Sweden)" tvg-logo="https://images.pluto.tv/channels/63a1c9790cc44a0007dc8857/colorLogoPNG.png" tvg-id="PlutoTVHorror.se@SE" tvg-country="SE" group-title="Sweden",Pluto TV Horror (Sweden)
+https://jmp2.uk/plu-63a19e1b9ab2df0007bef7a7.m3u8
+#EXTINF:-1 tvg-name="Pluto TV John Wayne" tvg-logo="https://images.pluto.tv/channels/655ca7aa635c3c000855d655/colorLogoPNG.png" tvg-id="PlutoTVJohnWayne.se@SE" tvg-country="SE" group-title="Sweden",Pluto TV John Wayne
+https://jmp2.uk/plu-655caaaac0fc8800086f5d99.m3u8
+#EXTINF:-1 tvg-name="Pluto TV Juniorklubben (720p)" tvg-logo="https://images.pluto.tv/channels/61c09a78bd194c0008decc28/colorLogoPNG_1748329348443.png" tvg-id="PlutoTVJuniorklubben.se@SE" tvg-country="SE" group-title="Sweden",Pluto TV Juniorklubben (720p)
+https://jmp2.uk/plu-61c0b7eb8929e40007ff5125.m3u8
+#EXTINF:-1 tvg-name="Pluto TV Komedi" tvg-logo="https://images.pluto.tv/channels/61c0b36d18447e000717d686/colorLogoPNG.png" tvg-id="PlutoTVKomedi.se@SE" tvg-country="SE" group-title="Sweden",Pluto TV Komedi
+https://jmp2.uk/plu-61c0b36d18447e000717d686.m3u8
+#EXTINF:-1 tvg-name="Pluto TV Kultfilmer" tvg-logo="https://images.pluto.tv/channels/63dbe80f60bc8f0008aa7c78/colorLogoPNG.png" tvg-id="PlutoTVKultfilmer.se@SE" tvg-country="SE" group-title="Sweden",Pluto TV Kultfilmer
+https://jmp2.uk/plu-63dbe8c8a9957100087798a3.m3u8
+#EXTINF:-1 tvg-name="Pluto TV Motor (Sweden)" tvg-logo="https://images.pluto.tv/channels/68ac51dede4a734954b5a67a/colorLogoPNG_1761126157471.png" tvg-id="PlutoTVMotor.se@SE" tvg-country="SE" group-title="Sweden",Pluto TV Motor (Sweden)
+https://jmp2.uk/plu-68ac52fac9b5923e0585578b.m3u8
+#EXTINF:-1 tvg-name="Pluto TV Paranormal (Sweden)" tvg-logo="https://images.pluto.tv/channels/62b30beb81f89900071fc7b9/colorLogoPNG.png" tvg-id="PlutoTVParanormal.se@SE" tvg-country="SE" group-title="Sweden",Pluto TV Paranormal (Sweden)
+https://jmp2.uk/plu-62b1e4189f5db20007ff03be.m3u8
+#EXTINF:-1 tvg-name="Pluto TV Romantik" tvg-logo="https://images.pluto.tv/channels/63a1c954d3897300079fcb12/colorLogoPNG_1767773445743.png" tvg-id="PlutoTVRomantik.se@SE" tvg-country="SE" group-title="Sweden",Pluto TV Romantik
+https://jmp2.uk/plu-63a19da6847a090007f230da.m3u8
+#EXTINF:-1 tvg-name="Pluto TV Sci-Fi (Sweden)" tvg-logo="https://images.pluto.tv/channels/60ed498c4248a400077c0b9d/colorLogoPNG.png" tvg-id="PlutoTVSciFi.se@SE" tvg-country="SE" group-title="Sweden",Pluto TV Sci-Fi (Sweden)
+https://jmp2.uk/plu-61f9597e78607000074f6c2a.m3u8
+#EXTINF:-1 tvg-name="Pluto TV Snooker 900 (Sweden) (720p)" tvg-logo="https://images.pluto.tv/channels/68ac5543a1ac0c90f2c8943e/colorLogoPNG_1760517341343.png" tvg-id="PlutoTVSnooker900.se@SE" tvg-country="SE" group-title="Sweden",Pluto TV Snooker 900 (Sweden) (720p)
+https://jmp2.uk/plu-68ac56363efb41cd979a8005.m3u8
+#EXTINF:-1 tvg-name="Pluto TV Sport (Sweden)" tvg-logo="https://images.pluto.tv/channels/6357f3de3643ba0007bc0b50/colorLogoPNG_1746816938506.png" tvg-id="PlutoTVSport.se@SE" tvg-country="SE" group-title="Sweden",Pluto TV Sport (Sweden)
+https://jmp2.uk/plu-62cd74e38f6f0d000798cd93.m3u8
+#EXTINF:-1 tvg-name="Pluto TV Tecknade klassiker (720p)" tvg-logo="https://images.pluto.tv/channels/67f5095a3481170e6843d95d/colorLogoPNG_1748955339418.png" tvg-id="PlutoTVTecknadeklassiker.se@SE" tvg-country="SE" group-title="Sweden",Pluto TV Tecknade klassiker (720p)
+https://jmp2.uk/plu-67f5095a3481170e6843d95d.m3u8
+#EXTINF:-1 tvg-name="Pluto TV Tecknat (720p)" tvg-logo="https://images.pluto.tv/channels/61c0b6f028e94c000782684a/colorLogoPNG_1749627909756.png" tvg-id="PlutoTVTecknat.se@SE" tvg-country="SE" group-title="Sweden",Pluto TV Tecknat (720p)
+https://jmp2.uk/plu-61c0b6f028e94c000782684a.m3u8
+#EXTINF:-1 tvg-name="Pluto TV True Crime (Sweden)" tvg-logo="https://images.pluto.tv/channels/615333098185f00008715a56/colorLogoPNG.png" tvg-id="PlutoTVTrueCrime.se@SE" tvg-country="SE" group-title="Sweden",Pluto TV True Crime (Sweden)
+https://jmp2.uk/plu-61c0b438244e50000758083b.m3u8
+#EXTINF:-1 tvg-name="Pluto TV Ungdomsserier (720p)" tvg-logo="https://images.pluto.tv/channels/67f3fb1cdea1c5e0d588ac1b/colorLogoPNG_1748270797322.png" tvg-id="PlutoTVUngdomsserier.se@SE" tvg-country="SE" group-title="Sweden",Pluto TV Ungdomsserier (720p)
+https://jmp2.uk/plu-67f3fc1707d2ba4121bd34a8.m3u8
+#EXTINF:-1 tvg-name="Pluto TV Varldskrigen" tvg-logo="https://images.pluto.tv/channels/677d3ad04bd63600082f7c54/colorLogoPNG_1759445391825.png" tvg-id="PlutoTVVarldskrigen.se@SE" tvg-country="SE" group-title="Sweden",Pluto TV Varldskrigen
+https://jmp2.uk/plu-677d3ad04bd63600082f7c54.m3u8
+#EXTINF:-1 tvg-name="Pluto TV Wild West" tvg-logo="https://images.pluto.tv/channels/68c01732b3900870ec74766f/colorLogoPNG_1761917904777.png" tvg-id="PlutoTVWildWest.se@SE" tvg-country="SE" group-title="Sweden",Pluto TV Wild West
+https://jmp2.uk/plu-68c017bf337652ee75db201f.m3u8
+#EXTINF:-1 tvg-name="Rawhide (Sweden)" tvg-logo="https://images.pluto.tv/channels/6964ba787e92438c2754e924/colorLogoPNG_1768209194548.png" tvg-id="Rawhide.se@SE" tvg-country="SE" group-title="Sweden",Rawhide (Sweden)
+https://jmp2.uk/plu-6964bb3640c8de392514a0c6.m3u8
+#EXTINF:-1 tvg-name="Reno 911" tvg-logo="https://images.pluto.tv/channels/65e9766eec9fda0008cb418a/colorLogoPNG.png" tvg-id="Reno911.se@SE" tvg-country="SE" group-title="Sweden",Reno 911
+https://jmp2.uk/plu-65e9781a2873090008b48d8a.m3u8
+#EXTINF:-1 tvg-name="Ridiculousness: Nya avsnitt" tvg-logo="https://images.pluto.tv/channels/68dfa1e7fae18f8db6218703/colorLogoPNG_1762543429004.png" tvg-id="RidiculousnessNyaavsnitt.se@SE" tvg-country="SE" group-title="Sweden",Ridiculousness: Nya avsnitt
+https://jmp2.uk/plu-68dfa1e7fae18f8db6218703.m3u8
+#EXTINF:-1 tvg-name="Sabrina the Teenage Witch" tvg-logo="https://images.pluto.tv/channels/6512ecf63a0d700008db506a/colorLogoPNG.png" tvg-id="SabrinatheTeenageWitch.se@SE" tvg-country="SE" group-title="Sweden",Sabrina the Teenage Witch
+https://jmp2.uk/plu-6512d72b473a540008592be5.m3u8
+#EXTINF:-1 tvg-name="Scorpion (Sweden)" tvg-logo="https://images.pluto.tv/channels/63a1caefc8d285000799e8af/colorLogoPNG.png" tvg-id="Scorpion.se@SE" tvg-country="SE" group-title="Sweden",Scorpion (Sweden)
+https://jmp2.uk/plu-63a1c9c2847a090007f248da.m3u8
+#EXTINF:-1 tvg-name="Skonhetsfallan Danmark" tvg-logo="https://images.pluto.tv/channels/643808dce0789d00084797f6/colorLogoPNG.png" tvg-id="SkonhetsfallanDanmark.se@SE" tvg-country="SE" group-title="Sweden",Skonhetsfallan Danmark
+https://jmp2.uk/plu-643808dce0789d00084797f6.m3u8
+#EXTINF:-1 tvg-name="Smithsonian Channel Selects (Sweden)" tvg-logo="https://images.pluto.tv/channels/61fb988e032c0100077d5252/colorLogoPNG.png" tvg-id="SmithsonianChannelSelects.se@SE" tvg-country="SE" group-title="Sweden",Smithsonian Channel Selects (Sweden)
+https://jmp2.uk/plu-61fb9907b1b78d000717ed9f.m3u8
+#EXTINF:-1 tvg-name="South Park (Sweden)" tvg-logo="https://images.pluto.tv/channels/61c098df897b9d00070375c8/colorLogoPNG_1754471522651.png" tvg-id="SouthPark.se@SE" tvg-country="SE" group-title="Sweden",South Park (Sweden)
+https://jmp2.uk/plu-61c0b627e3ed94000793c18a.m3u8
+#EXTINF:-1 tvg-name="South Park Armageddon" tvg-logo="https://images.pluto.tv/channels/660bff28516d260008479e23/colorLogoPNG.png" tvg-id="SouthParkArmageddon.se@SE" tvg-country="SE" group-title="Sweden",South Park Armageddon
+https://jmp2.uk/plu-660bff7dc8311c0008b4bdb4.m3u8
+#EXTINF:-1 tvg-name="South Park Rockin' Out" tvg-logo="https://images.pluto.tv/channels/664f132c8ea5560008ce4d86/colorLogoPNG.png" tvg-id="SouthParkRockinOut.se@SE" tvg-country="SE" group-title="Sweden",South Park Rockin' Out
+https://jmp2.uk/plu-664f13aff9992200084a3532.m3u8
+#EXTINF:-1 tvg-name="South Park: Butters Collection (Sweden)" tvg-logo="https://images.pluto.tv/channels/65d87a66ec9fda0008a5ac11/colorLogoPNG.png" tvg-id="SouthParkButtersCollection.se@SE" tvg-country="SE" group-title="Sweden",South Park: Butters Collection (Sweden)
+https://jmp2.uk/plu-65d881d566eec8000887f6bb.m3u8
+#EXTINF:-1 tvg-name="South Park: Cartman Collection (Sweden)" tvg-logo="https://images.pluto.tv/channels/65d87a058145cb0008265c2e/colorLogoPNG.png" tvg-id="SouthParkCartmanCollection.se@SE" tvg-country="SE" group-title="Sweden",South Park: Cartman Collection (Sweden)
+https://jmp2.uk/plu-65d881b1332fec000833a122.m3u8
+#EXTINF:-1 tvg-name="South Park: Into the Stars" tvg-logo="https://images.pluto.tv/channels/664f0eaa8ce31100088036bd/colorLogoPNG.png" tvg-id="SouthParkIntotheStars.se@SE" tvg-country="SE" group-title="Sweden",South Park: Into the Stars
+https://jmp2.uk/plu-664f0eea0120f40008bf97d6.m3u8
+#EXTINF:-1 tvg-name="South Park: Kenny Collection (Sweden)" tvg-logo="https://images.pluto.tv/channels/65d879bd0d4561000805d190/colorLogoPNG.png" tvg-id="SouthParkKennyCollection.se@SE" tvg-country="SE" group-title="Sweden",South Park: Kenny Collection (Sweden)
+https://jmp2.uk/plu-65d880cea25d5e0008315b0a.m3u8
+#EXTINF:-1 tvg-name="South Park: Kyle Collection (Sweden)" tvg-logo="https://images.pluto.tv/channels/65d87a908145cb0008265c6d/colorLogoPNG.png" tvg-id="SouthParkKyleCollection.se@SE" tvg-country="SE" group-title="Sweden",South Park: Kyle Collection (Sweden)
+https://jmp2.uk/plu-65d882394e01740008a36768.m3u8
+#EXTINF:-1 tvg-name="South Park: Stan Collection (Sweden)" tvg-logo="https://images.pluto.tv/channels/65d879e266eec8000887e91b/colorLogoPNG.png" tvg-id="SouthParkStanCollection.se@SE" tvg-country="SE" group-title="Sweden",South Park: Stan Collection (Sweden)
+https://jmp2.uk/plu-65d881914e01740008a36603.m3u8
+#EXTINF:-1 tvg-name="Star Trek Movies" tvg-logo="https://images.pluto.tv/channels/6400c281dff38e00083f59da/colorLogoPNG.png" tvg-id="StarTrekMovies.se@SE" tvg-country="SE" group-title="Sweden",Star Trek Movies
+https://jmp2.uk/plu-6400c2a6cb41a40008dbe5bc.m3u8
+#EXTINF:-1 tvg-name="Star Trek: The Original Series (Sweden)" tvg-logo="https://images.pluto.tv/channels/693add137e308621c051e733/colorLogoPNG_1765465486347.png" tvg-id="StarTrekTheOriginalSeries.se@SE" tvg-country="SE" group-title="Sweden",Star Trek: The Original Series (Sweden)
+https://jmp2.uk/plu-693ade4d569386f93f235bb6.m3u8
+#EXTINF:-1 tvg-name="Stugfixarna Norge" tvg-logo="https://images.pluto.tv/channels/61c18ec6ac860c0007684981/colorLogoPNG.png" tvg-id="StugfixarnaNorge.se@SE" tvg-country="SE" group-title="Sweden",Stugfixarna Norge
+https://jmp2.uk/plu-61c18ec6ac860c0007684981.m3u8
+#EXTINF:-1 tvg-name="SvampBob Fyrkant (720p)" tvg-logo="https://images.pluto.tv/channels/61c0ba0816e2fd00086cb6b1/colorLogoPNG.png" tvg-id="SvampBobFyrkant.se@SE" tvg-country="SE" group-title="Sweden",SvampBob Fyrkant (720p)
+https://jmp2.uk/plu-61c0ba0816e2fd00086cb6b1.m3u8
+#EXTINF:-1 tvg-name="Svenska Hollywoodfruar" tvg-logo="https://images.pluto.tv/channels/61c1921610d254000727eebd/colorLogoPNG.png" tvg-id="SvenskaHollywoodfruar.se@SE" tvg-country="SE" group-title="Sweden",Svenska Hollywoodfruar
+https://jmp2.uk/plu-61c1921610d254000727eebd.m3u8
+#EXTINF:-1 tvg-name="Svenska Truckers" tvg-logo="https://images.pluto.tv/channels/61f128f68a1dfc00086470af/colorLogoPNG.png" tvg-id="SvenskaTruckers.se@SE" tvg-country="SE" group-title="Sweden",Svenska Truckers
+https://jmp2.uk/plu-61f128f68a1dfc00086470af.m3u8
+#EXTINF:-1 tvg-name="SVT1 HD (1080p) [Geo-blocked]" tvg-logo="https://i.imgur.com/j6KusQX.png" tvg-id="SVT1.se@HD" tvg-country="SE" group-title="Sweden",SVT1 HD (1080p) [Geo-blocked]
+https://svt-live-channel.akamaized.net/l4/se/svt1/master-fmp4.m3u8?defaultSubLang=1&format=hls
+#EXTINF:-1 tvg-name="SVT2 HD (1080p) [Geo-blocked]" tvg-logo="https://i.imgur.com/pGWvCxp.png" tvg-id="SVT2.se@HD" tvg-country="SE" group-title="Sweden",SVT2 HD (1080p) [Geo-blocked]
+https://svt-live-channel.akamaized.net/l6/se/svt2/master-fmp4.m3u8?defaultSubLang=1&format=hls
+#EXTINF:-1 tvg-name="The Daily Show" tvg-logo="https://images.pluto.tv/channels/65c096d23ba51e0008305a75/colorLogoPNG.png" tvg-id="TheDailyShow.se@SE" tvg-country="SE" group-title="Sweden",The Daily Show
+https://jmp2.uk/plu-65c0978360eb870008bc9d5b.m3u8
+#EXTINF:-1 tvg-name="The L Word" tvg-logo="https://images.pluto.tv/channels/693ae48864476d678e9b6235/colorLogoPNG_1768226798170.png" tvg-id="TheLWord.se@SE" tvg-country="SE" group-title="Sweden",The L Word
+https://jmp2.uk/plu-693ae4ee25e9a6646b198fb0.m3u8
+#EXTINF:-1 tvg-name="The Millers" tvg-logo="https://images.pluto.tv/channels/69afeefa0a7f2095e768401c/colorLogoPNG_1776168453662.png" tvg-id="TheMillers.se@SE" tvg-country="SE" group-title="Sweden",The Millers
+https://jmp2.uk/plu-69afef4b0306b277744de1e4.m3u8
+#EXTINF:-1 tvg-name="The New Detectives (Sweden)" tvg-logo="https://images.pluto.tv/channels/618147d2a814250007b42916/colorLogoPNG.png" tvg-id="TheNewDetectives.se@SE" tvg-country="SE" group-title="Sweden",The New Detectives (Sweden)
+https://jmp2.uk/plu-61814dd68a368d0007d78c53.m3u8
+#EXTINF:-1 tvg-name="The Pet Collective Sweden" tvg-logo="https://i.imgur.com/yH7n2dF.png" tvg-id="ThePetCollective.us@Sweden" tvg-country="SE" group-title="Sweden",The Pet Collective Sweden
+https://the-pet-collective-international-se.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-name="The Twilight Zone" tvg-logo="https://images.pluto.tv/channels/6512ec9f3a0d700008db4f0c/colorLogoPNG.png" tvg-id="TheTwilightZone.se@SE" tvg-country="SE" group-title="Sweden",The Twilight Zone
+https://jmp2.uk/plu-6512d6c92ce8e40008bd5c81.m3u8
+#EXTINF:-1 tvg-name="The Wild Wild West (Sweden)" tvg-logo="https://images.pluto.tv/channels/6964bc3806d76f50db3e315e/colorLogoPNG_1768230352673.png" tvg-id="TheWildWildWest.se@SE" tvg-country="SE" group-title="Sweden",The Wild Wild West (Sweden)
+https://jmp2.uk/plu-6964bcf9ae33e24d911d7e1c.m3u8
+#EXTINF:-1 tvg-name="Tosh.0 (Sweden)" tvg-logo="https://images.pluto.tv/channels/65e977042873090008b48be9/colorLogoPNG.png" tvg-id="Tosh0.se@SE" tvg-country="SE" group-title="Sweden",Tosh.0 (Sweden)
+https://jmp2.uk/plu-65e97856ec9fda0008cb453c.m3u8
+#EXTINF:-1 tvg-name="Totally Turtles (Sweden) (720p)" tvg-logo="https://images.pluto.tv/channels/61c0bbd95df1da0007bed5a0/colorLogoPNG.png" tvg-id="TotallyTurtles.se@SE" tvg-country="SE" group-title="Sweden",Totally Turtles (Sweden) (720p)
+https://jmp2.uk/plu-61c185e36faf920007f04b6e.m3u8
+#EXTINF:-1 tvg-name="True crime fran Viaplay" tvg-logo="https://images.pluto.tv/channels/645cb7857cb4b1000859c57c/colorLogoPNG.png" tvg-id="TruecrimefranViaplay.se@SE" tvg-country="SE" group-title="Sweden",True crime fran Viaplay
+https://jmp2.uk/plu-645cb7857cb4b1000859c57c.m3u8
+#EXTINF:-1 tvg-name="Unga Mammor" tvg-logo="https://images.pluto.tv/channels/61c1e1c445b45d0007aad03e/colorLogoPNG.png" tvg-id="UngaMammor.se@SE" tvg-country="SE" group-title="Sweden",Unga Mammor
+https://jmp2.uk/plu-61c1900995f417000731a002.m3u8
+#EXTINF:-1 tvg-name="V Sport Golf [Not 24/7]" tvg-logo="https://i.imgur.com/wCw8Pmz.png" tvg-id="VSportGolf.se@SD" tvg-country="SE" group-title="Sweden",V Sport Golf [Not 24/7]
+http://315e5a5d.ottrast.com/iptv/8XFKA8883W9M5K/12077/index.m3u8
+#EXTINF:-1 tvg-name="Viafree Movies" tvg-logo="https://images.pluto.tv/channels/62bebc3459624e00078209c3/colorLogoPNG.png" tvg-id="ViafreeMovies.se@SE" tvg-country="SE" group-title="Sweden",Viafree Movies
+https://jmp2.uk/plu-62f64ec9eb1045000728cad6.m3u8
+#EXTINF:-1 tvg-name="Viasat Explore (Sweden) [Not 24/7]" tvg-logo="https://i.imgur.com/DyT5pKB.png" tvg-id="ViasatExplore.se@SD" tvg-country="SE" group-title="Sweden",Viasat Explore (Sweden) [Not 24/7]
+http://315e5a5d.ottrast.com/iptv/8XFKA8883W9M5K/12085/index.m3u8
+#EXTINF:-1 tvg-name="Viasat History (Sweden) [Not 24/7]" tvg-logo="https://i.imgur.com/wRP9XA7.png" tvg-id="ViasatHistory.se@SD" tvg-country="SE" group-title="Sweden",Viasat History (Sweden) [Not 24/7]
+http://315e5a5d.ottrast.com/iptv/8XFKA8883W9M5K/12101/index.m3u8
+#EXTINF:-1 tvg-name="Viasat Nature (Sweden) [Not 24/7]" tvg-logo="https://i.imgur.com/ousRqqD.png" tvg-id="ViasatNature.se@SD" tvg-country="SE" group-title="Sweden",Viasat Nature (Sweden) [Not 24/7]
+http://315e5a5d.ottrast.com/iptv/8XFKA8883W9M5K/12084/index.m3u8
+#EXTINF:-1 tvg-name="Wildfire" tvg-logo="https://images.pluto.tv/channels/62b9b63d3bbe9000073c0a2d/colorLogoPNG.png" tvg-id="Wildfire.se@SE" tvg-country="SE" group-title="Sweden",Wildfire
+https://jmp2.uk/plu-62beb0de371e6c000775930c.m3u8
