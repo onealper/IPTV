@@ -4,7 +4,7 @@ Paste this URL into your IPTV player's playlist field:
 
 **https://raw.githubusercontent.com/onealper/IPTV/master/custom.m3u8**
 
-The playlist combines Turkey and Sweden from [Free-TV/IPTV](https://github.com/Free-TV/IPTV) with additional channels from [zek's Turkish playlist](https://gist.github.com/zek/209bcd5888473014d4cc5d82390e7d56). Existing Free-TV streams take priority when a channel appears in both lists. Duplicate channel names and URLs are removed within each country. Source files for other countries remain in the fork, but are excluded from **custom.m3u8**.
+The playlist combines Turkey and Sweden from [Free-TV/IPTV](https://github.com/Free-TV/IPTV) with additional channels from [zek's Turkish playlist](https://gist.github.com/zek/209bcd5888473014d4cc5d82390e7d56) and [iptv-org's Turkey and Sweden playlists](https://github.com/iptv-org/iptv/blob/master/PLAYLISTS.md). Existing Free-TV streams take priority when a channel appears in both lists. Duplicate channel names and URLs are removed within each country. The iptv-org country lists include international channels available in those countries; imported entries are grouped under Turkey or Sweden. Source files for other countries remain in the fork, but are excluded from **custom.m3u8**.
 
 ## Change countries
 
@@ -55,6 +55,7 @@ Channel availability depends on the stream provider, your location, and your pla
 ## Sources and attribution
 
 - [Free-TV/IPTV](https://github.com/Free-TV/IPTV): base country playlists and programme-guide links.
+- [iptv-org/iptv](https://github.com/iptv-org/iptv): country playlists for Turkey and Sweden.
 - [zek / turkiye-origin-iptv.m3u](https://gist.github.com/zek/209bcd5888473014d4cc5d82390e7d56): supplemental Turkish playlist, derived from [iptv-org/iptv](https://github.com/iptv-org/iptv).
 
 The original repository's channel lists, tools, and history are preserved in this fork. Use the personal playlist URL above to see only your selected countries.

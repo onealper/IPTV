@@ -1,10 +1,21 @@
 {
-  "countries": ["turkey", "sweden"],
+  "countries": [
+    "turkey",
+    "sweden"
+  ],
   "exclude_channels": [],
   "extra_playlists": [
     {
       "country": "turkey",
       "url": "https://gist.githubusercontent.com/zek/209bcd5888473014d4cc5d82390e7d56/raw/turkiye-origin-iptv.m3u"
+    },
+    {
+      "country": "turkey",
+      "url": "https://iptv-org.github.io/iptv/countries/tr.m3u"
+    },
+    {
+      "country": "sweden",
+      "url": "https://iptv-org.github.io/iptv/countries/se.m3u"
     }
   ],
   "extra_channels": []
