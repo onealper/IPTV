@@ -1,5 +1,11 @@
 {
   "countries": ["turkey", "sweden"],
   "exclude_channels": [],
+  "extra_playlists": [
+    {
+      "country": "turkey",
+      "url": "https://gist.githubusercontent.com/zek/209bcd5888473014d4cc5d82390e7d56/raw/turkiye-origin-iptv.m3u"
+    }
+  ],
   "extra_channels": []
 }
