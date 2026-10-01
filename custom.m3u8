@@ -19,8 +19,6 @@ https://tv-trtbelgesel-dai.medya.trt.com.tr/master.m3u8
 https://tv-trtavaz.medya.trt.com.tr/master.m3u8
 #EXTINF:-1 tvg-name="TRT Kurdî" tvg-logo="https://i.imgur.com/6BpymfB.png" tvg-id="TRTKurdi.tr" tvg-chno="10" tvg-country="TR" group-title="Turkey",TRT Kurdî
 https://tv-trtkurdi.medya.trt.com.tr/master.m3u8
-#EXTINF:-1 tvg-name="TRT Arabi" tvg-logo="https://i.imgur.com/yyhWOZs.png" tvg-id="TRTArabi.tr" tvg-chno="11" tvg-country="TR" group-title="Turkey",TRT Arabi
-https://tv-trtarabi.medya.trt.com.tr/master.m3u8
 #EXTINF:-1 tvg-name="TRT World" tvg-logo="https://i.imgur.com/JEA2xpv.png" tvg-id="TRTWorld.tr" tvg-chno="12" tvg-country="TR" group-title="Turkey",TRT World
 https://tv-trtworld.medya.trt.com.tr/master.m3u8
 #EXTINF:-1 tvg-name="TRT Türk" tvg-logo="https://i.imgur.com/OSTOQNw.png" tvg-id="TRTTurk.tr" tvg-chno="13" tvg-country="TR" group-title="Turkey",TRT Türk
@@ -60,8 +58,6 @@ https://mn-nl.mncdn.com/dogusdyg_drone/cgtn/playlist.m3u8
 https://hnpsechtsc.turknet.ercdn.net/xpnvudnlsv/cnbc-e/cnbc-e.m3u8
 #EXTINF:-1 tvg-name="Disney Jr. (1080p) [Geo-blocked]" tvg-logo="https://www.dsmart.com.tr/api/v1/public/images/kanallar/disneyjr.png" tvg-id="DisneyJr.tr@SD" tvg-country="TR" group-title="Turkey",Disney Jr. (1080p) [Geo-blocked]
 https://saran-live.ercdn.net/disneyjunior/index.m3u8
-#EXTINF:-1 tvg-name="Elsharq TV (1080p) [Not 24/7]" tvg-logo="https://i.imgur.com/8vmfZb5.png" tvg-id="ElsharqTV.tr@SD" tvg-country="TR" group-title="Turkey",Elsharq TV (1080p) [Not 24/7]
-https://mn-nl.mncdn.com/elsharq_live/live/playlist.m3u8
 #EXTINF:-1 tvg-name="Flash TV (720p)" tvg-logo="https://i.imgur.com/L0NHKBM.png" tvg-id="FlashTV.tr@SD" tvg-country="TR" group-title="Turkey",Flash TV (720p)
 https://mn-nl.mncdn.com/blutv_flashtv/live.m3u8
 #EXTINF:-1 tvg-name="FX (1080p) [Geo-blocked]" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/FX_International_logo.svg/960px-FX_International_logo.svg.png" tvg-id="FX.tr@HD" tvg-country="TR" group-title="Turkey",FX (1080p) [Geo-blocked]
@@ -80,8 +76,6 @@ https://kanal7-live.daioncdn.net/kanal7/kanal7.m3u8
 https://demiroren.daioncdn.net/kanald/kanald.m3u8?app=kanald_web&ce=3
 #EXTINF:-1 tvg-name="KRAL Pop TV (720p)" tvg-logo="https://i.imgur.com/ch365lh.png" tvg-id="KralPopTV.tr@SD" tvg-country="TR" group-title="Turkey",KRAL Pop TV (720p)
 https://dogus-live.daioncdn.net/kralpoptv/playlist.m3u8
-#EXTINF:-1 tvg-name="Mekameleen TV (1080p)" tvg-logo="https://i.imgur.com/q7iVchl.png" tvg-id="MekameleenTV.tr@SD" tvg-country="TR" group-title="Turkey",Mekameleen TV (1080p)
-https://mn-nl.mncdn.com/mekameleen/smil:mekameleentv.smil/playlist.m3u8
 #EXTINF:-1 tvg-name="Minika Cocuk (720p)" tvg-logo="https://i.imgur.com/VCywMTv.png" tvg-id="MinikaCocuk.tr@SD" tvg-country="TR" group-title="Turkey",Minika Cocuk (720p)
 https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/minikago_cocuk/minikago_cocuk.m3u8
 #EXTINF:-1 tvg-name="Minika Go (720p)" tvg-logo="https://i.imgur.com/qIoipDq.png" tvg-id="MinikaGo.tr@SD" tvg-country="TR" group-title="Turkey",Minika Go (720p)
@@ -122,14 +116,10 @@ https://mn-nl.mncdn.com/blutv_ulketv2/live.m3u8
 https://hls.4utv.live/hls/stream.m3u8
 #EXTINF:-1 tvg-name="Aksu TV (720p)" tvg-logo="https://i.imgur.com/mgDCKiy.png" tvg-id="AksuTV.tr@SD" tvg-country="TR" group-title="Turkey",Aksu TV (720p)
 https://live.artidijitalmedya.com/artidijital_aksutv/aksutv/playlist.m3u8
-#EXTINF:-1 tvg-name="Al-Rafidain TV (720p) [Not 24/7]" tvg-logo="https://i.imgur.com/rjXDCN5.png" tvg-id="AlRafidainTV.tr@SD" tvg-country="TR" group-title="Turkey",Al-Rafidain TV (720p) [Not 24/7]
-https://arrafidain.tvplayer.online/arrafidaintv/source/playlist.m3u8
 #EXTINF:-1 tvg-name="Al-Zahra TV Turkic (720p) [Not 24/7]" tvg-logo="https://i.imgur.com/QEHKGnG.png" tvg-id="AlZahraTVTurkic.tr@SD" tvg-country="TR" group-title="Turkey",Al-Zahra TV Turkic (720p) [Not 24/7]
 https://live.al-zahratv.com/live/playlist.m3u8
 #EXTINF:-1 tvg-name="Alanya Posta TV (1080p)" tvg-logo="https://i.imgur.com/a3w9eFe.png" tvg-id="AlanyaPostaTV.tr@SD" tvg-country="TR" group-title="Turkey",Alanya Posta TV (1080p)
 https://api-tv3.yayin.com.tr/postatv/postatv/playlist.m3u8
-#EXTINF:-1 tvg-name="Almahriah TV (576p)" tvg-logo="https://i.imgur.com/GgEeTNr.png" tvg-id="AlmahriahTV.tr@SD" tvg-country="TR" group-title="Turkey",Almahriah TV (576p)
-https://starmenajo.com/hls/almahriah/index.m3u8
 #EXTINF:-1 tvg-name="Altas TV (1080p)" tvg-logo="https://i.imgur.com/XaJ7fp6.png" tvg-id="AltasTV.tr@SD" tvg-country="TR" group-title="Turkey",Altas TV (1080p)
 https://edge1.socialsmart.tv/altastv/bant1/playlist.m3u8
 #EXTINF:-1 tvg-name="Anadolu Net TV (1080p)" tvg-logo="https://www.anadolunettv.com/d/r/logo.png" tvg-id="AnadoluNetTV.tr@SD" tvg-country="TR" group-title="Turkey",Anadolu Net TV (1080p)
@@ -313,8 +303,6 @@ https://livetv.powerapp.com.tr/pturkslow/slow.smil/playlist.m3u8
 https://livetv.powerapp.com.tr/pturktaptaze/taptaze.smil/playlist.m3u8
 #EXTINF:-1 tvg-name="PowerTurk TV (720p)" tvg-logo="https://i.imgur.com/9OPoXQG.png" tvg-id="PowerTurkTV.tr@SD" tvg-country="TR" group-title="Turkey",PowerTurk TV (720p)
 https://live.artidijitalmedya.com/artidijital_powerturktv/powerturktv/playlist.m3u8
-#EXTINF:-1 tvg-name="Qaf TV (1080p)" tvg-logo="https://i.imgur.com/hrk7Uce.png" tvg-id="QafTV.tr@SD" tvg-country="TR" group-title="Turkey",Qaf TV (1080p)
-https://customer-9vqui33qma2rownb.cloudflarestream.com/7792e558fe54e23bdd4b462ec275cdba/manifest/video.m3u8
 #EXTINF:-1 tvg-name="RTG int." tvg-logo="https://i.imgur.com/ZpUNou4.png" tvg-id="RTGint.ru@SD" tvg-country="TR" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3" group-title="Turkey",RTG int.
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3
 http://213.91.179.28:8000/play/a0bw
@@ -516,8 +504,6 @@ https://jmp2.uk/plu-66290c12801af8000850c1a9.m3u8
 https://jmp2.uk/plu-68f0f642a25ba0aab3e64e66.m3u8
 #EXTINF:-1 tvg-name="Merry Christmas from Viafree" tvg-logo="https://images.pluto.tv/channels/63048147b09fd60007847a08/colorLogoPNG.png" tvg-id="MerryChristmasfromViafree.se@SE" tvg-country="SE" group-title="Sweden",Merry Christmas from Viafree
 https://jmp2.uk/plu-6304854ac6073d0007259fe1.m3u8
-#EXTINF:-1 tvg-name="Miracle Channel (1080p)" tvg-logo="https://i.imgur.com/yrt7Rw9.png" tvg-id="MiracleChannel.se@SD" tvg-country="SE" group-title="Sweden",Miracle Channel (1080p)
-https://live.miracleonline.org/hls/miracle1.m3u8
 #EXTINF:-1 tvg-name="Mission Impossible (Sweden)" tvg-logo="https://images.pluto.tv/channels/6478a9e4f77b61000817034b/colorLogoPNG.png" tvg-id="MissionImpossible.se@SE" tvg-country="SE" group-title="Sweden",Mission Impossible (Sweden)
 https://jmp2.uk/plu-639b4f14be012600070fe1be.m3u8
 #EXTINF:-1 tvg-name="MTV Catfish (Sweden) (720p)" tvg-logo="https://images.pluto.tv/channels/6177fe76691b2e000702c7fc/colorLogoPNG_1750864554364.png" tvg-id="MTVCatfish.se@SE" tvg-country="SE" group-title="Sweden",MTV Catfish (Sweden) (720p)
