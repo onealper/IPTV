@@ -3,7 +3,15 @@
     "turkey",
     "sweden"
   ],
-  "exclude_channels": [],
+  "exclude_channels": [
+    "TRT Arabi",
+    "Elsharq TV",
+    "Mekameleen TV",
+    "Al-Rafidain TV",
+    "Almahriah TV",
+    "Qaf TV",
+    "Miracle Channel"
+  ],
   "extra_playlists": [
     {
       "country": "turkey",
