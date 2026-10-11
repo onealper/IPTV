@@ -197,6 +197,10 @@ https://live.artidijitalmedya.com/artidijital_etv/etv/playlist.m3u8
 https://edge1.socialsmart.tv/manisaetv/bant1/playlist.m3u8
 #EXTINF:-1 tvg-name="Euro D (720p)" tvg-logo="https://i.imgur.com/x9kHsXo.png" tvg-id="EuroD.tr@SD" tvg-country="TR" group-title="Turkey",Euro D (720p)
 https://live.duhnet.tv/S2/HLS_LIVE/eurodnp/playlist.m3u8
+#EXTINF:-1 tvg-name="Eurosport 1 Turkiye" tvg-logo="https://i.imgur.com/olQJgm7.png" tvg-id="Eurosport1.fr@Turkiye" tvg-country="TR" group-title="Turkey",Eurosport 1 Turkiye
+https://andro.mangeinde4.lat/checklist/androstreamlivees1.m3u8
+#EXTINF:-1 tvg-name="Eurosport 2 Turkiye" tvg-logo="https://i.imgur.com/f56dHgR.png" tvg-id="Eurosport2.fr@Turkiye" tvg-country="TR" group-title="Turkey",Eurosport 2 Turkiye
+https://andro.mangeinde4.lat/checklist/androstreamlivees2.m3u8
 #EXTINF:-1 tvg-name="FB TV" tvg-logo="https://i.imgur.com/qBVqtYd.png" tvg-id="FBTV.tr@SD" tvg-country="TR" group-title="Turkey",FB TV
 http://1hskrdto.rocketcdn.com/fenerbahcetv.smil/playlist.m3u8
 #EXTINF:-1 tvg-name="Finans Turk TV (720p)" tvg-logo="https://i.ibb.co/wBwmB1T/iY0osc7.png" tvg-id="FinansTurkTV.tr@SD" tvg-country="TR" group-title="Turkey",Finans Turk TV (720p)
