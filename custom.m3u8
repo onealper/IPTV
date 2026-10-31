@@ -148,6 +148,8 @@ http://139.162.182.79/live/test/index.m3u8
 https://live.artidijitalmedya.com/artidijital_brtv/brtv/playlist.m3u8
 #EXTINF:-1 tvg-name="Bursa TV (720p) [Not 24/7]" tvg-logo="https://i.imgur.com/9cl1MR8.png" tvg-id="BursaTV.tr@SD" tvg-country="TR" group-title="Turkey",Bursa TV (720p) [Not 24/7]
 https://win1.yayin.com.tr/bursatv/bursatv/playlist.m3u8
+#EXTINF:-1 tvg-name="Cartoon Network (Turkiye)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/960px-Cartoon_Network_2010_logo.svg.png" tvg-id="CartoonNetwork.tr@SD" tvg-country="TR" group-title="Turkey",Cartoon Network (Turkiye)
+http://176.65.153.40:6002/play/a013/index.m3u8
 #EXTINF:-1 tvg-name="Cay TV (720p)" tvg-logo="https://i.imgur.com/ndupxwu.png" tvg-id="CayTV.tr@SD" tvg-country="TR" group-title="Turkey",Cay TV (720p)
 https://edge1.socialsmart.tv/caytv/bant1/playlist.m3u8
 #EXTINF:-1 tvg-name="Cekmekoy TV (1080p)" tvg-logo="https://i.imgur.com/sjAGFWu.png" tvg-id="CekmekoyTV.tr@SD" tvg-country="TR" group-title="Turkey",Cekmekoy TV (1080p)
