@@ -126,7 +126,7 @@ https://edge1.socialsmart.tv/altastv/bant1/playlist.m3u8
 https://live.artidijitalmedya.com/artidijital_anadolunet/anadolunet/playlist.m3u8
 #EXTINF:-1 tvg-name="Aras TV (576p) [Not 24/7]" tvg-logo="https://i.imgur.com/JsDCyWG.png" tvg-id="ArasTV.tr@SD" tvg-country="TR" group-title="Turkey",Aras TV (576p) [Not 24/7]
 http://1.rtmp.org/tv217/yayin.stream/playlist.m3u8
-#EXTINF:-1 tvg-name="AS TV (900p)" tvg-logo="https://asset.artidijitalmedya.com/image/188x188/channels/v1/logo_13.png" tvg-id="ASTV.tr@SD" tvg-country="TR" group-title="Turkey",AS TV (900p)
+#EXTINF:-1 tvg-name="AS TV (Turkiye) (900p)" tvg-logo="https://asset.artidijitalmedya.com/image/188x188/channels/v1/logo_13.png" tvg-id="ASTV.tr@SD" tvg-country="TR" group-title="Turkey",AS TV (Turkiye) (900p)
 https://live.artidijitalmedya.com/artidijital_astv/astv/playlist.m3u8
 #EXTINF:-1 tvg-name="ATV Alanya (1080p)" tvg-logo="https://i.imgur.com/bUwarR0.png" tvg-id="ATVAlanya.tr@SD" tvg-country="TR" group-title="Turkey",ATV Alanya (1080p)
 https://cdn-alanyatv.yayin.com.tr/alanyatv/alanyatv/playlist.m3u8
