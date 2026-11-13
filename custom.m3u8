@@ -311,6 +311,8 @@ https://b01c02nl.mediatriple.net/videoonlylive/mtisvwurbfcyslive/broadcast_58d91
 https://canli.sercemtv.com.tr/hls/0/stream.m3u8
 #EXTINF:-1 tvg-name="Show Turk (1080p)" tvg-logo="https://i.imgur.com/fdZpGDj.png" tvg-id="ShowTurk.tr@SD" tvg-country="TR" group-title="Turkey",Show Turk (1080p)
 https://raw.githubusercontent.com/bnyusuf67-crypto/streams/refs/heads/main/streams/shturk.m3u8
+#EXTINF:-1 tvg-name="Sozcu TV (1080p)" tvg-logo="https://i.imgur.com/BxpdvsG.png" tvg-id="SozcuTV.tr@SD" tvg-country="TR" group-title="Turkey",Sozcu TV (1080p)
+https://filbox-to-m3u8.onrender.com/stream/szchd.m3u8
 #EXTINF:-1 tvg-name="Spacetoon Turkey (720p) [Not 24/7]" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/2/2b/Spacetoon_logo.png" tvg-id="SpacetoonTurkey.tr@SD" tvg-country="TR" http-referrer="https://spacetoon.com.tr/" group-title="Turkey",Spacetoon Turkey (720p) [Not 24/7]
 #EXTVLCOPT:http-referrer=https://spacetoon.com.tr/
 https://live-tr-next.spacetoongo.com/ST_TR_NEXT/hls/h7qefeiwfbjn1.m3u8
