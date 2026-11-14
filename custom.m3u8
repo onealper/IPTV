@@ -138,6 +138,9 @@ https://nord.ayakkabiparti.lol/bbc/index.m3u8
 #EXTINF:-1 tvg-name="BBC First Turkiye" tvg-logo="https://i.imgur.com/UBoBYUI.png" tvg-id="BBCFirst.uk@Turkiye" tvg-country="TR" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" group-title="Turkey",BBC First Turkiye
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 http://88.212.7.14/live/bbc_first/index.m3u8
+#EXTINF:-1 tvg-name="beIN Sports 1 Turk" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/27/BeinSports1.svg/revision/latest?cb=20230910184457" tvg-id="beINSports1Turk.tr@SD" tvg-country="TR" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36" group-title="Turkey",beIN Sports 1 Turk
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36
+http://57.129.0.61:1990/stream/117/index.m3u8
 #EXTINF:-1 tvg-name="Benguturk TV (1080p)" tvg-logo="https://i.imgur.com/p3ON1oX.png" tvg-id="BenguturkTV.tr@SD" tvg-country="TR" group-title="Turkey",Benguturk TV (1080p)
 http://185.234.111.229:8000/play/a05u
 #EXTINF:-1 tvg-name="Bir TV (720p)" tvg-logo="https://birtv.tv/assets/upload/637f83951df60.png" tvg-id="BirTV.tr@SD" tvg-country="TR" group-title="Turkey",Bir TV (720p)
@@ -312,7 +315,7 @@ https://canli.sercemtv.com.tr/hls/0/stream.m3u8
 #EXTINF:-1 tvg-name="Show Turk (1080p)" tvg-logo="https://i.imgur.com/fdZpGDj.png" tvg-id="ShowTurk.tr@SD" tvg-country="TR" group-title="Turkey",Show Turk (1080p)
 https://raw.githubusercontent.com/bnyusuf67-crypto/streams/refs/heads/main/streams/shturk.m3u8
 #EXTINF:-1 tvg-name="Sozcu TV (1080p)" tvg-logo="https://i.imgur.com/BxpdvsG.png" tvg-id="SozcuTV.tr@SD" tvg-country="TR" group-title="Turkey",Sozcu TV (1080p)
-https://filbox-to-m3u8.onrender.com/stream/szchd.m3u8
+https://raw.githubusercontent.com/yaskar661-lgtm/stream/refs/heads/main/filbox/szchd.m3u8
 #EXTINF:-1 tvg-name="Spacetoon Turkey (720p) [Not 24/7]" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/2/2b/Spacetoon_logo.png" tvg-id="SpacetoonTurkey.tr@SD" tvg-country="TR" http-referrer="https://spacetoon.com.tr/" group-title="Turkey",Spacetoon Turkey (720p) [Not 24/7]
 #EXTVLCOPT:http-referrer=https://spacetoon.com.tr/
 https://live-tr-next.spacetoongo.com/ST_TR_NEXT/hls/h7qefeiwfbjn1.m3u8
