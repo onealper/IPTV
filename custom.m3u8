@@ -249,6 +249,8 @@ https://cdn4.yayin.com.tr/kntv/tracks-v1a1/mono.m3u8
 https://edge.taksimbilisim.com/kocaelitv/bant1/playlist.m3u8
 #EXTINF:-1 tvg-name="Konya Olay TV (720p)" tvg-logo="https://www.konyaolaytv.com/upload/tema/20230307__5154687762.jpg" tvg-id="KonyaOlayTV.tr@SD" tvg-country="TR" group-title="Turkey",Konya Olay TV (720p)
 https://live.artidijitalmedya.com/artidijital_konyaolaytv/konyaolaytv/playlist.m3u8
+#EXTINF:-1 tvg-name="KRT (1080p)" tvg-logo="https://i.imgur.com/9ZKqdQJ.png" tvg-id="KRT.tr@SD" tvg-country="TR" group-title="Turkey",KRT (1080p)
+https://raw.githubusercontent.com/yaskar661-lgtm/stream/refs/heads/main/filbox/krthd.m3u8
 #EXTINF:-1 tvg-name="Lalegul TV (1080p)" tvg-logo="https://i.imgur.com/wwCysFs.png" tvg-id="LalegulTV.tr@SD" tvg-country="TR" group-title="Turkey",Lalegul TV (1080p)
 https://lbl.netmedya.net/hls/lalegultv.m3u8
 #EXTINF:-1 tvg-name="Life TV (Turkiye) (720p) [Not 24/7]" tvg-logo="https://i.imgur.com/lWeJxm0.png" tvg-id="LifeTV.tr@SD" tvg-country="TR" group-title="Turkey",Life TV (Turkiye) (720p) [Not 24/7]
